@@ -1,0 +1,16 @@
+{
+  "active_mods": {
+    "base": "0.16.10"
+  },
+  "difficulty_settings": {
+    "recipe_difficulty": 0,
+    "technology_difficulty": 0,
+    "technology_price_multiplier": 1
+  },
+  "player": {
+    "mod_settings": {
+      "isluaobject": "802384732948701238470123",
+      "valid": true
+    }
+  }
+}
