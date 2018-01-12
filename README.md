@@ -16,5 +16,4 @@ Not ready for external users yet, but feel free to report github issues.
 - tooltips display the internal "name" property of recipe/item/fluid/technology (no localization yet)
 - background color green = available, yellow = possible to research unlocking technology, red = possible to unlock by a technology after researching its dependencies, gray = not possible to research (only unlock via a console command)
 - for testing from file system, copy files produced by dump_json.lua in the same directory and open in Firefox (or start a web server)
-- TODO: verify with Factorio team whether I can publish icons (and localizations) in my github repository (or load some other way)
 - TODO: load icons from mods (popular ones maybe on github too), ... switch from paper to github issues

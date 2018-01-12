@@ -1,11 +1,27 @@
 body {
   font: 16px "Calibri", serif;
   margin: 0;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 div {
   display: flex;
   align-items: flex-start;
+}
+
+a, a:hover {
+  color: #ff7200;
+}
+
+a {
+  text-decoration: none;  
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 img {
@@ -19,15 +35,40 @@ img[title="time-icon"] {
   cursor: default;
 }
 
-#root {
-  flex-direction: column;
+header {
+  font-size: 30px;
+  text-align: center;
 }
 
-.header {
+header a {
+  color: inherit;
+}
+
+header img {
+  vertical-align: middle;
+}
+
+footer {
+  margin-top: auto;
+  font-size: 20px;
+  text-align: center;
+}
+
+#logo {
+  height: 46px;
+  width: 307px;
+}
+
+#root {
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter-wrapper {
   font-size: 20px;
   width: 100%;
   max-width: 100vw;
-  margin: auto;
+  margin: 0 auto;
   justify-content: center;
   align-items: baseline;
   background: linear-gradient(white 90%, transparent);
@@ -45,7 +86,8 @@ img[title="time-icon"] {
 
 .grid {
   line-height: 18px;
-  margin: auto;
+  margin: 0 auto;
+  flex-wrap: wrap;
 }
 
 .tier {

@@ -1,7 +1,7 @@
 // (() => { // keep in global namespace while debugging
   const root = document.getElementById('root')
   const icon_urls = [
-    'known_icons',
+    'factorio-content',
     // '/Applications/factorio.app/Contents/data/base/graphics/icons/fluid',
     // '/Applications/factorio.app/Contents/data/base/graphics/icons', // TODO: steam, widows, linux, mods folders, ...
     // '/Applications/factorio.app/Contents/data/base/graphics/technology',
@@ -222,15 +222,17 @@
     Object.keys(recipe_tiers).forEach(tier => {
       recipe_tiers[tier].length > 0 && tier_columns.push(recipe_tiers[tier])
     })
+    const placeholder = 'Type to filter (e.g. oil), click on icons, use back button or ESC'
     filter_element = input({
       type: 'text',
       className: 'filter',
-      placeholder: 'Filter by recipe, products, ingredients, technology',
+      placeholder,
+      title: placeholder,
       onChange: e => {
         location.hash = filter_element.value
       }
     })
-    root.appendChild(div({className: "header", children: [filter_element]}))
+    root.appendChild(div({className: "filter-wrapper", children: [filter_element]}))
     filter_element.select()
     
     const grid = tier_columns.map(tier => {
@@ -241,6 +243,7 @@
     document.onkeyup = e => {
       if (e.key === 'Escape') {
         filter_element.value = ''
+        filter_element.focus()
         location.hash = ''
       }
     }
