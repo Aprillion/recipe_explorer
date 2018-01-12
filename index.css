@@ -93,18 +93,19 @@ img[title="time-icon"] {
   justify-content: center;
   overflow: hidden;
   opacity: 1;
-  transition: 400ms, opacity 400ms cubic-bezier(1, 0, 1, 0), scale 200ms;
+  transition: 400ms, opacity 400ms cubic-bezier(1, 0, 1, 0), min-width 200ms ease-out;
 }
 
 .filtered {
   min-height: 0;
   max-height: 0;
-  min-width: 50px;
+  min-width: 0;
   max-width: 0;
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
   opacity: 0;
   pointer-events: none;
-  transition: 400ms, opacity 400ms ease-in-out;
+  transition: 400ms, opacity 400ms ease-in-out, min-width 200ms 200ms;
 }
 
 .enabled .big_icon_and_time {
@@ -152,6 +153,9 @@ img[title="time-icon"] {
 .big_icon > img {
   height: 32px;
   width: 32px;
+  /* do not interpolate on retina displays, FF and Chrome have different options */
+  image-rendering: optimizeSpeed;
+  image-rendering: pixelated;
 }
 
 .technology {
