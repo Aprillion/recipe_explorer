@@ -248,7 +248,9 @@
       }
     }
     onhashchange = e => {
-      filter_element.value = decodeURIComponent(location.hash.substr(1))
+      const value = decodeURIComponent(location.hash.substr(1))
+      document.title = (value && `${value} - `) + 'Factorio recipes'
+      filter_element.value = value
       filter_grid()
     }
     if (location.hash) {
