@@ -1,6 +1,6 @@
 Proof of concept for Factorio recipe explorer tool.
 
-aprillion.github.io/recipe_explorer
+[aprillion.github.io/recipe_explorer](http://aprillion.github.io/recipe_explorer)
 <details open>
     <summary>Preview (click here to collapse)</summary>
     <img src="preview.gif" alt="Preview">
