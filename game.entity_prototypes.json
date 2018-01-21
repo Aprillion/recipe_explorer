@@ -1,0 +1,2055 @@
+[
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": false,
+      "speed": false,
+      "productivity": false,
+      "pollution": false
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "burner_prototype": {
+      "burnt_inventory_size": 0,
+      "effectivity": 1,
+      "emissions": 1e-05,
+      "fuel_categories": {
+        "chemical": true
+      },
+      "fuel_inventory_size": 1,
+      "isluaobject": "802384732948701238470123",
+      "light_flicker": {
+        "minimum_intensity": 0.20000000298023,
+        "maximum_intensity": 0.80000001192093,
+        "derivation_change_frequency": 0.30000001192093,
+        "derivation_change_deviation": 0.059999998658895,
+        "border_fix_speed": 0.019999999552965,
+        "minimum_light_size": 0.5,
+        "light_intensity_to_size_coefficient": 0.5,
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "smoke": [
+        {
+          "name": "smoke",
+          "frequency": 5,
+          "offset": 0,
+          "position": {
+            "x": 0,
+            "y": -0.8
+          },
+          "deviation": {
+            "position": {
+              "x": 0.09765625,
+              "y": 0.09765625
+            }
+          },
+          "starting_frame_speed": 0,
+          "starting_frame_speed_deviation": 0,
+          "starting_frame": 0,
+          "starting_frame_deviation": 60,
+          "slow_down_factor": 1,
+          "height": 0,
+          "height_deviation": 0,
+          "starting_vertical_speed": 0.079999998211861,
+          "starting_vertical_speed_deviation": 0,
+          "vertical_speed_slowdown": 0.96499997377396
+        }
+      ],
+      "valid": true
+    },
+    "collision_box": {
+      "left_top": {
+        "y": -0.69921875,
+        "x": -0.69921875
+      },
+      "right_bottom": {
+        "y": 0.69921875,
+        "x": 0.69921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "medium-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "smelting": true
+    },
+    "crafting_speed": 1,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 29,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -0.69921875,
+          "y": -0.69921875
+        },
+        "right_bottom": {
+          "x": 0.69921875,
+          "y": 0.69921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 3000,
+    "fast_replaceable_group": "furnace",
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 1,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "stone-furnace": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.stone-furnace"
+    ],
+    "localised_name": [
+      "entity-name.stone-furnace"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 3000,
+    "max_health": 200,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.5,
+      "mining_time": 1,
+      "products": [
+        {
+          "type": "item",
+          "name": "stone-furnace",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 0,
+    "name": "stone-furnace",
+    "order": "z-a[stone-furnace]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "explosion": {
+        "decrease": 0,
+        "percent": 0.30000001192093
+      },
+      "fire": {
+        "decrease": 0,
+        "percent": 0.89999997615814
+      },
+      "impact": {
+        "decrease": 0,
+        "percent": 0.30000001192093
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1,
+        "x": -0.796875
+      },
+      "right_bottom": {
+        "y": 1,
+        "x": 0.796875
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 2.6,
+    "sticker_box": {
+      "left_top": {
+        "y": -0.69921875,
+        "x": -0.69921875
+      },
+      "right_bottom": {
+        "y": 0.69921875,
+        "x": 0.69921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "furnace",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": false,
+      "speed": false,
+      "productivity": false,
+      "pollution": false
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "burner_prototype": {
+      "burnt_inventory_size": 0,
+      "effectivity": 1,
+      "emissions": 2e-05,
+      "fuel_categories": {
+        "chemical": true
+      },
+      "fuel_inventory_size": 1,
+      "isluaobject": "802384732948701238470123",
+      "light_flicker": {
+        "minimum_intensity": 0.20000000298023,
+        "maximum_intensity": 0.80000001192093,
+        "derivation_change_frequency": 0.30000001192093,
+        "derivation_change_deviation": 0.059999998658895,
+        "border_fix_speed": 0.019999999552965,
+        "minimum_light_size": 0.5,
+        "light_intensity_to_size_coefficient": 0.5,
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "smoke": [
+        {
+          "name": "smoke",
+          "frequency": 10,
+          "offset": 0,
+          "position": {
+            "x": 0.7,
+            "y": -1.2
+          },
+          "starting_frame_speed": 0,
+          "starting_frame_speed_deviation": 0,
+          "starting_frame": 0,
+          "starting_frame_deviation": 60,
+          "slow_down_factor": 1,
+          "height": 0,
+          "height_deviation": 0,
+          "starting_vertical_speed": 0.079999998211861,
+          "starting_vertical_speed_deviation": 0,
+          "vertical_speed_slowdown": 0.96499997377396
+        }
+      ],
+      "valid": true
+    },
+    "collision_box": {
+      "left_top": {
+        "y": -0.69921875,
+        "x": -0.69921875
+      },
+      "right_bottom": {
+        "y": 0.69921875,
+        "x": 0.69921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "medium-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "smelting": true
+    },
+    "crafting_speed": 2,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 29,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -0.69921875,
+          "y": -0.69921875
+        },
+        "right_bottom": {
+          "x": 0.69921875,
+          "y": 0.69921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 3000,
+    "fast_replaceable_group": "furnace",
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 1,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "steel-furnace": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.steel-furnace"
+    ],
+    "localised_name": [
+      "entity-name.steel-furnace"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 3000,
+    "max_health": 300,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.5,
+      "mining_time": 1,
+      "products": [
+        {
+          "type": "item",
+          "name": "steel-furnace",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 0,
+    "name": "steel-furnace",
+    "order": "z-b[steel-furnace]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 1
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1,
+        "x": -0.796875
+      },
+      "right_bottom": {
+        "y": 1,
+        "x": 0.796875
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 2.6,
+    "sticker_box": {
+      "left_top": {
+        "y": -0.69921875,
+        "x": -0.69921875
+      },
+      "right_bottom": {
+        "y": 0.69921875,
+        "x": 0.69921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "furnace",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "smelting": true
+    },
+    "crafting_speed": 2,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 86,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -1.19921875,
+          "y": -1.19921875
+        },
+        "right_bottom": {
+          "x": 1.19921875,
+          "y": 1.19921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 0,
+      "drain": 100,
+      "effectivity": 1,
+      "emissions": 5e-06,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 3000,
+    "fast_replaceable_group": "furnace",
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 1,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "electric-furnace": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.electric-furnace"
+    ],
+    "localised_name": [
+      "entity-name.electric-furnace"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 3000,
+    "max_health": 350,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.5,
+      "mining_time": 1,
+      "products": [
+        {
+          "type": "item",
+          "name": "electric-furnace",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 2,
+    "name": "electric-furnace",
+    "order": "z-c[electric-furnace]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 0.80000001192093
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.5,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 3.9,
+    "sticker_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "furnace",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": false,
+      "speed": false,
+      "productivity": false,
+      "pollution": false
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "crafting": true
+    },
+    "crafting_speed": 0.5,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 86,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -1.19921875,
+          "y": -1.19921875
+        },
+        "right_bottom": {
+          "x": 1.19921875,
+          "y": 1.19921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 1600,
+      "drain": 50,
+      "effectivity": 1,
+      "emissions": 3.3333333333333e-05,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 1500,
+    "fast_replaceable_group": "assembling-machine",
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 2,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "assembling-machine-1": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.assembling-machine-1"
+    ],
+    "localised_name": [
+      "entity-name.assembling-machine-1"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 1500,
+    "max_health": 300,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.2,
+      "mining_time": 0.5,
+      "products": [
+        {
+          "type": "item",
+          "name": "assembling-machine-1",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 0,
+    "name": "assembling-machine-1",
+    "order": "z-a[assembling-machine-1]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 0.69999998807907
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.5,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 3.9,
+    "sticker_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "assembling-machine",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "crafting": true,
+      "advanced-crafting": true,
+      "crafting-with-fluid": true
+    },
+    "crafting_speed": 0.75,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 86,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -1.19921875,
+          "y": -1.19921875
+        },
+        "right_bottom": {
+          "x": 1.19921875,
+          "y": 1.19921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 2666.6666666667,
+      "drain": 83.333333333333,
+      "effectivity": 1,
+      "emissions": 1.6e-05,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 2500,
+    "fast_replaceable_group": "assembling-machine",
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 4,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "assembling-machine-2": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.assembling-machine-2"
+    ],
+    "localised_name": [
+      "entity-name.assembling-machine-2"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 2500,
+    "max_health": 350,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.2,
+      "mining_time": 0.5,
+      "products": [
+        {
+          "type": "item",
+          "name": "assembling-machine-2",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 2,
+    "name": "assembling-machine-2",
+    "order": "z-b[assembling-machine-2]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 0.69999998807907
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.5,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 3.9,
+    "sticker_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "assembling-machine",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "crafting": true,
+      "advanced-crafting": true,
+      "crafting-with-fluid": true
+    },
+    "crafting_speed": 1.25,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 86,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -1.19921875,
+          "y": -1.19921875
+        },
+        "right_bottom": {
+          "x": 1.19921875,
+          "y": 1.19921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 3733.3333333333,
+      "drain": 116.66666666667,
+      "effectivity": 1,
+      "emissions": 8.5714285714286e-06,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 3500,
+    "fast_replaceable_group": "assembling-machine",
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 6,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "assembling-machine-3": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.assembling-machine-3"
+    ],
+    "localised_name": [
+      "entity-name.assembling-machine-3"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 3500,
+    "max_health": 400,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.2,
+      "mining_time": 0.5,
+      "products": [
+        {
+          "type": "item",
+          "name": "assembling-machine-3",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 4,
+    "name": "assembling-machine-3",
+    "order": "z-c[assembling-machine-3]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 0.69999998807907
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.5,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 3.9,
+    "sticker_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "assembling-machine",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -2.3984375,
+        "x": -2.3984375
+      },
+      "right_bottom": {
+        "y": 2.3984375,
+        "x": 2.3984375
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "oil-processing": true
+    },
+    "crafting_speed": 1,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 345,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -2.3984375,
+          "y": -2.3984375
+        },
+        "right_bottom": {
+          "x": 2.3984375,
+          "y": 2.3984375
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 7466.6666666667,
+      "drain": 233.33333333333,
+      "effectivity": 1,
+      "emissions": 8.5714285714286e-06,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 7000,
+    "flags": {
+      "placeable-neutral": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 4,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "oil-refinery": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.oil-refinery"
+    ],
+    "localised_name": [
+      "entity-name.oil-refinery"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 7000,
+    "max_health": 350,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.5,
+      "mining_time": 1,
+      "products": [
+        {
+          "type": "item",
+          "name": "oil-refinery",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 3,
+    "name": "oil-refinery",
+    "order": "z-d[refinery]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -2.5,
+        "x": -2.5
+      },
+      "right_bottom": {
+        "y": 2.5,
+        "x": 2.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 6.5,
+    "sticker_box": {
+      "left_top": {
+        "y": -2.3984375,
+        "x": -2.3984375
+      },
+      "right_bottom": {
+        "y": 2.3984375,
+        "x": 2.3984375
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "assembling-machine",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -1.3984375,
+        "x": -1.3984375
+      },
+      "right_bottom": {
+        "y": 1.3984375,
+        "x": 1.3984375
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "chemistry": true
+    },
+    "crafting_speed": 1.25,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 117,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -1.3984375,
+          "y": -1.3984375
+        },
+        "right_bottom": {
+          "x": 1.3984375,
+          "y": 1.3984375
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 3733.3333333333,
+      "drain": 116.66666666667,
+      "effectivity": 1,
+      "emissions": 8.5714285714286e-06,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 3500,
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 4,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "chemical-plant": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.chemical-plant"
+    ],
+    "localised_name": [
+      "entity-name.chemical-plant"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 3500,
+    "max_health": 300,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.2,
+      "mining_time": 0.5,
+      "products": [
+        {
+          "type": "item",
+          "name": "chemical-plant",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 3,
+    "name": "chemical-plant",
+    "order": "z-e[chemical-plant]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.5,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 3.9,
+    "sticker_box": {
+      "left_top": {
+        "y": -1.3984375,
+        "x": -1.3984375
+      },
+      "right_bottom": {
+        "y": 1.3984375,
+        "x": 1.3984375
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "assembling-machine",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "centrifuging": true
+    },
+    "crafting_speed": 0.75,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 86,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -1.19921875,
+          "y": -1.19921875
+        },
+        "right_bottom": {
+          "x": 1.19921875,
+          "y": 1.19921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": -2,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 6222.2222222222,
+      "drain": 194.44444444444,
+      "effectivity": 1,
+      "emissions": 1.6e-05,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "secondary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 5833.3333333333,
+    "flags": {
+      "placeable-neutral": true,
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 2,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "centrifuge": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.centrifuge"
+    ],
+    "localised_name": [
+      "entity-name.centrifuge"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 5833.3333333333,
+    "max_health": 350,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.2,
+      "mining_time": 0.5,
+      "products": [
+        {
+          "type": "item",
+          "name": "centrifuge",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 2,
+    "name": "centrifuge",
+    "order": "z-g[centrifuge]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 0.69999998807907
+      }
+    },
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.5,
+        "x": -1.5
+      },
+      "right_bottom": {
+        "y": 1.5,
+        "x": 1.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 3.9,
+    "sticker_box": {
+      "left_top": {
+        "y": -1.19921875,
+        "x": -1.19921875
+      },
+      "right_bottom": {
+        "y": 1.19921875,
+        "x": 1.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "assembling-machine",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": true,
+    "allow_copy_paste": true,
+    "allowed_effects": {
+      "consumption": true,
+      "speed": true,
+      "productivity": true,
+      "pollution": true
+    },
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -4.69921875,
+        "x": -4.19921875
+      },
+      "right_bottom": {
+        "y": 4.69921875,
+        "x": 4.19921875
+      }
+    },
+    "collision_mask": {
+      "water-tile": true,
+      "item-layer": true,
+      "object-layer": true,
+      "player-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "corpses": {
+      "big-remnants": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "crafting_categories": {
+      "rocket-building": true
+    },
+    "crafting_speed": 1,
+    "created_smoke": {
+      "type": "create-entity",
+      "repeat_count": 1183,
+      "affects_target": false,
+      "smoke_name": "smoke-building",
+      "offsets": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "offset_deviation": {
+        "left_top": {
+          "x": -4.19921875,
+          "y": -4.69921875
+        },
+        "right_bottom": {
+          "x": 4.19921875,
+          "y": 4.69921875
+        },
+        "orientation": 0
+      },
+      "initial_height": 0,
+      "speed": {
+        "x": 0,
+        "y": 0
+      },
+      "speed_multiplier": 0,
+      "speed_multiplier_deviation": 0,
+      "starting_frame": 0,
+      "starting_frame_deviation": 0,
+      "starting_frame_speed": 0,
+      "starting_frame_speed_deviation": 0,
+      "speed_from_center": 0.050000000745058,
+      "speed_from_center_deviation": 0
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "electric_energy_source_prototype": {
+      "buffer_capacity": 4444.4444444444,
+      "drain": 138.88888888889,
+      "effectivity": 1,
+      "emissions": 0,
+      "input_flow_limit": 0,
+      "isluaobject": "802384732948701238470123",
+      "output_flow_limit": 0,
+      "render_no_network_icon": true,
+      "render_no_power_icon": true,
+      "usage_priority": "primary-input",
+      "valid": true
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "energy_usage": 4166.6666666667,
+    "fixed_recipe": "rocket-part",
+    "flags": {
+      "placeable-player": true,
+      "player-creation": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0,
+    "ingredient_count": 3,
+    "isluaobject": "802384732948701238470123",
+    "items_to_place_this": {
+      "rocket-silo": {
+        "<parsing limit reached>": 2
+      }
+    },
+    "localised_description": [
+      "entity-description.rocket-silo"
+    ],
+    "localised_name": [
+      "entity-name.rocket-silo"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 66666.666666667,
+    "max_health": 5000,
+    "mineable_properties": {
+      "minable": true,
+      "hardness": 0.2,
+      "mining_time": 5,
+      "products": [
+        {
+          "type": "item",
+          "name": "rocket-silo",
+          "amount": 1
+        }
+      ]
+    },
+    "module_inventory_size": 4,
+    "name": "rocket-silo",
+    "order": "z-e[rocket-silo]",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "resistances": {
+      "fire": {
+        "decrease": 0,
+        "percent": 0.60000002384186
+      },
+      "impact": {
+        "decrease": 0,
+        "percent": 0.60000002384186
+      }
+    },
+    "rocket_parts_required": 100,
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -5,
+        "x": -4.5
+      },
+      "right_bottom": {
+        "y": 5,
+        "x": 4.5
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 13,
+    "sticker_box": {
+      "left_top": {
+        "y": -4.69921875,
+        "x": -4.19921875
+      },
+      "right_bottom": {
+        "y": 4.69921875,
+        "x": 4.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "rocket-silo",
+    "valid": true
+  },
+  {
+    "additional_pastable_entities": {},
+    "alert_when_damaged": false,
+    "allow_copy_paste": true,
+    "build_base_evolution_requirement": 0,
+    "building_grid_bit_shift": 0,
+    "collision_box": {
+      "left_top": {
+        "y": -0.19921875,
+        "x": -0.19921875
+      },
+      "right_bottom": {
+        "y": 0.19921875,
+        "x": 0.19921875
+      }
+    },
+    "collision_mask": {
+      "player-layer": true,
+      "train-layer": true
+    },
+    "collision_mask_collides_with_self": true,
+    "crafting_categories": {
+      "crafting": true
+    },
+    "drawing_box": {
+      "left_top": {
+        "y": 0,
+        "x": 0
+      },
+      "right_bottom": {
+        "y": 0,
+        "x": 0
+      }
+    },
+    "emissions_per_tick": 0,
+    "enemy_map_color": {
+      "r": 255,
+      "g": 25,
+      "b": 25,
+      "a": 255
+    },
+    "flags": {
+      "pushable": true,
+      "placeable-off-grid": true,
+      "breaths-air": true,
+      "not-repairable": true,
+      "not-on-map": true
+    },
+    "fluid_capacity": 0,
+    "friendly_map_color": {
+      "r": 0,
+      "g": 96,
+      "b": 145,
+      "a": 255
+    },
+    "group": "<ignored>",
+    "healing_per_tick": 0.15000000596046,
+    "isluaobject": "802384732948701238470123",
+    "localised_description": [
+      "entity-description.player"
+    ],
+    "localised_name": [
+      "entity-name.player"
+    ],
+    "max_circuit_wire_distance": 0,
+    "max_energy_usage": 0,
+    "max_health": 250,
+    "mineable_properties": {
+      "minable": false,
+      "hardness": 0,
+      "mining_time": 0
+    },
+    "mining_speed": 0.01,
+    "name": "player",
+    "order": "a",
+    "remains_when_mined": {},
+    "repair_speed_modifier": 1,
+    "selectable_in_game": true,
+    "selection_box": {
+      "left_top": {
+        "y": -1.3984375,
+        "x": -0.3984375
+      },
+      "right_bottom": {
+        "y": 0.19921875,
+        "x": 0.3984375
+      }
+    },
+    "selection_priority": 50,
+    "shooting_cursor_size": 2.076953125,
+    "sticker_box": {
+      "left_top": {
+        "y": -0.19921875,
+        "x": -0.19921875
+      },
+      "right_bottom": {
+        "y": 0.19921875,
+        "x": 0.19921875
+      }
+    },
+    "subgroup": "<ignored>",
+    "time_to_live": 0,
+    "type": "player",
+    "valid": true
+  }
+]
