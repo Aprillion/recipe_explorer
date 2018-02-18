@@ -11,8 +11,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.automation"
@@ -23,7 +23,7 @@
     "name": "automation",
     "order": "a-b-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 10,
     "research_unit_energy": 600,
     "research_unit_ingredients": [
@@ -45,8 +45,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.automation"
@@ -66,7 +66,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 80,
     "research_unit_energy": 300,
     "research_unit_ingredients": [
@@ -88,8 +88,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.automation"
@@ -112,7 +112,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -149,8 +149,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.electronics"
@@ -165,7 +165,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 30,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -191,8 +191,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.advanced-electronics"
@@ -210,7 +210,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -241,8 +241,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.advanced-electronics"
@@ -262,7 +262,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -318,8 +318,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.circuit-network"
@@ -334,7 +334,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -361,8 +361,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.explosives"
@@ -377,7 +377,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -417,8 +417,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.logistics"
@@ -429,7 +429,7 @@
     "name": "logistics",
     "order": "a-f-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 20,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -459,8 +459,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.logistics"
@@ -480,7 +480,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -515,8 +515,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.logistics"
@@ -539,7 +539,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -576,8 +576,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.optics"
@@ -588,7 +588,7 @@
     "name": "optics",
     "order": "a-h-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 10,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -605,8 +605,8 @@
   {
     "effects": {},
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.laser"
@@ -624,7 +624,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -651,8 +651,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.solar-energy"
@@ -673,7 +673,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -700,8 +700,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.turrets"
@@ -712,7 +712,7 @@
     "name": "turrets",
     "order": "a-j-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 10,
     "research_unit_energy": 600,
     "research_unit_ingredients": [
@@ -734,8 +734,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.laser-turrets"
@@ -759,7 +759,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -791,8 +791,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.stone-walls"
@@ -803,7 +803,7 @@
     "name": "stone-walls",
     "order": "a-k-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 10,
     "research_unit_energy": 600,
     "research_unit_ingredients": [
@@ -825,8 +825,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.gates"
@@ -844,7 +844,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -875,8 +875,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.engine"
@@ -894,7 +894,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -921,8 +921,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.electric-engine"
@@ -940,7 +940,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -967,8 +967,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.battery"
@@ -983,7 +983,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1010,8 +1010,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.landfill"
@@ -1022,7 +1022,7 @@
     "name": "landfill",
     "order": "b-d",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1049,8 +1049,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.braking-force"
@@ -1070,7 +1070,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1102,8 +1102,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.braking-force"
@@ -1123,7 +1123,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1155,8 +1155,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.braking-force"
@@ -1179,7 +1179,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1216,8 +1216,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.braking-force"
@@ -1237,7 +1237,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 350,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1274,8 +1274,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.braking-force"
@@ -1295,7 +1295,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 450,
     "research_unit_energy": 2100,
     "research_unit_ingredients": [
@@ -1332,8 +1332,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.braking-force"
@@ -1353,7 +1353,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 550,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -1395,8 +1395,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.braking-force"
@@ -1416,7 +1416,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 650,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -1466,8 +1466,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.steel-processing"
@@ -1478,7 +1478,7 @@
     "name": "steel-processing",
     "order": "c-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 300,
     "research_unit_ingredients": [
@@ -1500,8 +1500,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.advanced-material-processing"
@@ -1516,7 +1516,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1547,8 +1547,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.advanced-material-processing"
@@ -1571,7 +1571,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1607,8 +1607,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.concrete"
@@ -1623,7 +1623,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1650,8 +1650,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.electric-energy-accumulators"
@@ -1669,7 +1669,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1700,8 +1700,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.electric-energy-distribution"
@@ -1724,7 +1724,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 120,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1751,8 +1751,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.electric-energy-distribution"
@@ -1772,7 +1772,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -1812,8 +1812,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.railway"
@@ -1831,7 +1831,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1858,8 +1858,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.fluid-wagon"
@@ -1877,7 +1877,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1904,8 +1904,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.automated-rail-transportation"
@@ -1920,7 +1920,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1951,8 +1951,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.rail-signals"
@@ -1967,7 +1967,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -1989,8 +1989,8 @@
   {
     "effects": {},
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.flying"
@@ -2005,7 +2005,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2032,8 +2032,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.robotics"
@@ -2051,7 +2051,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2094,8 +2094,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.construction-robotics"
@@ -2113,7 +2113,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2152,8 +2152,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.logistic-robotics"
@@ -2171,7 +2171,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2206,8 +2206,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.logistic-system"
@@ -2222,7 +2222,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2264,8 +2264,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.personal-roboport-equipment"
@@ -2283,7 +2283,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2315,8 +2315,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.personal-roboport-equipment"
@@ -2336,7 +2336,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2373,8 +2373,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.character-logistic-slots"
@@ -2394,7 +2394,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2421,8 +2421,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.character-logistic-slots"
@@ -2442,7 +2442,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2469,8 +2469,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.character-logistic-slots"
@@ -2490,7 +2490,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2522,8 +2522,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.character-logistic-slots"
@@ -2543,7 +2543,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2580,8 +2580,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.character-logistic-slots"
@@ -2601,7 +2601,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2638,8 +2638,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.character-logistic-slots"
@@ -2659,7 +2659,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2701,8 +2701,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.character-logistic-trash-slots"
@@ -2722,7 +2722,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2749,8 +2749,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.worker-robots-speed"
@@ -2770,7 +2770,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2802,8 +2802,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.character-logistic-trash-slots"
@@ -2823,7 +2823,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2855,8 +2855,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.worker-robots-speed"
@@ -2876,7 +2876,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2908,8 +2908,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.auto-character-logistic-trash-slots"
@@ -2924,7 +2924,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -2956,8 +2956,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.worker-robots-speed"
@@ -2977,7 +2977,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -3014,8 +3014,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.worker-robots-speed"
@@ -3035,7 +3035,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -3072,8 +3072,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.mining-productivity"
@@ -3088,7 +3088,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_count_formula": "1*(100*L)",
     "research_unit_energy": 3600,
@@ -3116,8 +3116,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 12,
     "localised_description": [
       "technology-description.mining-productivity"
@@ -3132,7 +3132,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1200,
     "research_unit_count_formula": "1*(100*L)",
     "research_unit_energy": 3600,
@@ -3175,8 +3175,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 16,
     "localised_description": [
       "technology-description.mining-productivity"
@@ -3191,7 +3191,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1500,
     "research_unit_count_formula": "1*(100(L-1))",
     "research_unit_energy": 3600,
@@ -3239,8 +3239,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.mining-productivity"
@@ -3255,7 +3255,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_count_formula": "1*(100*L)",
     "research_unit_energy": 3600,
@@ -3288,8 +3288,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 8,
     "localised_description": [
       "technology-description.mining-productivity"
@@ -3304,7 +3304,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 800,
     "research_unit_count_formula": "1*(100*L)",
     "research_unit_energy": 3600,
@@ -3342,8 +3342,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.worker-robots-speed"
@@ -3363,7 +3363,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -3405,8 +3405,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.worker-robots-speed"
@@ -3421,7 +3421,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-6)*1000)",
     "research_unit_energy": 3600,
@@ -3469,8 +3469,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.worker-robots-storage"
@@ -3490,7 +3490,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3522,8 +3522,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.worker-robots-storage"
@@ -3543,7 +3543,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -3580,8 +3580,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.worker-robots-storage"
@@ -3601,7 +3601,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 450,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -3643,8 +3643,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.toolbelt"
@@ -3655,7 +3655,7 @@
     "name": "toolbelt",
     "order": "c-k-m",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3682,8 +3682,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.research-speed"
@@ -3703,7 +3703,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3730,8 +3730,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.research-speed"
@@ -3751,7 +3751,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3778,8 +3778,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.research-speed"
@@ -3799,7 +3799,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3831,8 +3831,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.research-speed"
@@ -3852,7 +3852,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3884,8 +3884,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.research-speed"
@@ -3905,7 +3905,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -3942,8 +3942,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.research-speed"
@@ -3963,7 +3963,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4013,8 +4013,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.stack-inserter"
@@ -4032,7 +4032,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4059,8 +4059,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4080,7 +4080,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4111,8 +4111,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4132,7 +4132,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4159,8 +4159,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4180,7 +4180,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4212,8 +4212,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4233,7 +4233,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4270,8 +4270,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4291,7 +4291,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4328,8 +4328,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4349,7 +4349,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4390,8 +4390,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.inserter-capacity-bonus"
@@ -4411,7 +4411,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 600,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4481,8 +4481,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.oil-processing"
@@ -4497,7 +4497,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4584,8 +4584,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.fluid-handling"
@@ -4603,7 +4603,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4633,8 +4633,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.advanced-oil-processing"
@@ -4649,7 +4649,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4681,8 +4681,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.coal-liquefaction"
@@ -4697,7 +4697,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4738,8 +4738,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.sulfur-processing"
@@ -4754,7 +4754,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4781,8 +4781,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.plastics"
@@ -4797,7 +4797,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4836,8 +4836,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.artillery"
@@ -4852,7 +4852,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 2000,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -4902,8 +4902,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.military"
@@ -4914,7 +4914,7 @@
     "name": "military",
     "order": "e-a-a",
     "prerequisites": {},
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 10,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -4936,8 +4936,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.atomic-bomb"
@@ -4958,7 +4958,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 5000,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -5013,8 +5013,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.military"
@@ -5037,7 +5037,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 20,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -5072,8 +5072,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.uranium-ammo"
@@ -5091,7 +5091,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -5141,8 +5141,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.military"
@@ -5165,7 +5165,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5206,8 +5206,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.military"
@@ -5227,7 +5227,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -5269,8 +5269,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.automobilism"
@@ -5288,7 +5288,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5310,8 +5310,8 @@
   {
     "effects": {},
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.flammables"
@@ -5326,7 +5326,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5361,8 +5361,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.flamethrower"
@@ -5380,7 +5380,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5420,8 +5420,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.tanks"
@@ -5439,7 +5439,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5476,8 +5476,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.land-mine"
@@ -5495,7 +5495,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5531,8 +5531,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.rocketry"
@@ -5556,7 +5556,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 120,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -5588,8 +5588,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.explosive-rocketry"
@@ -5607,7 +5607,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5645,8 +5645,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -5666,7 +5666,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5699,8 +5699,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -5720,7 +5720,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -5753,8 +5753,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -5774,7 +5774,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -5812,8 +5812,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -5833,7 +5833,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -5871,8 +5871,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -5892,7 +5892,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -5930,8 +5930,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -5951,7 +5951,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -5994,8 +5994,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.rocket-damage"
@@ -6010,7 +6010,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-7)*1000)",
     "research_unit_energy": 3600,
@@ -6059,8 +6059,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6080,7 +6080,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -6113,8 +6113,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6134,7 +6134,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -6167,8 +6167,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6188,7 +6188,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6226,8 +6226,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6247,7 +6247,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6285,8 +6285,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6306,7 +6306,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6344,8 +6344,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6365,7 +6365,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6408,8 +6408,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.rocket-speed"
@@ -6429,7 +6429,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6472,8 +6472,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.cannon-shell-damage"
@@ -6493,7 +6493,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6531,8 +6531,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.cannon-shell-damage"
@@ -6552,7 +6552,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6590,8 +6590,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.cannon-shell-damage"
@@ -6611,7 +6611,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6648,8 +6648,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.artillery-shell-range"
@@ -6664,7 +6664,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 2000,
     "research_unit_count_formula": "1*(2^L*1000)",
     "research_unit_energy": 3600,
@@ -6713,8 +6713,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.cannon-shell-damage"
@@ -6734,7 +6734,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6777,8 +6777,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.cannon-shell-damage"
@@ -6798,7 +6798,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6841,8 +6841,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.cannon-shell-damage"
@@ -6857,7 +6857,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 2000,
     "research_unit_count_formula": "1*(2^(L-5)*1000)",
     "research_unit_energy": 3600,
@@ -6906,8 +6906,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.cannon-shell-speed"
@@ -6927,7 +6927,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -6965,8 +6965,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.cannon-shell-speed"
@@ -6986,7 +6986,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7024,8 +7024,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.cannon-shell-speed"
@@ -7045,7 +7045,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7083,8 +7083,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.cannon-shell-speed"
@@ -7104,7 +7104,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7147,8 +7147,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.artillery-shell-speed"
@@ -7163,7 +7163,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 2000,
     "research_unit_count_formula": "1*(1000+3^(L-1)*1000)",
     "research_unit_energy": 3600,
@@ -7212,8 +7212,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.cannon-shell-speed"
@@ -7233,7 +7233,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7276,8 +7276,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7297,7 +7297,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -7320,8 +7320,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7341,7 +7341,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -7369,8 +7369,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7390,7 +7390,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7423,8 +7423,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7444,7 +7444,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7477,8 +7477,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7498,7 +7498,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7536,8 +7536,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7557,7 +7557,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7600,8 +7600,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.bullet-damage"
@@ -7616,7 +7616,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-7)*1000)",
     "research_unit_energy": 3600,
@@ -7665,8 +7665,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.bullet-speed"
@@ -7686,7 +7686,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -7709,8 +7709,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.bullet-speed"
@@ -7730,7 +7730,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -7758,8 +7758,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.bullet-speed"
@@ -7779,7 +7779,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7807,8 +7807,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.bullet-speed"
@@ -7828,7 +7828,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7861,8 +7861,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.bullet-speed"
@@ -7882,7 +7882,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7920,8 +7920,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.bullet-speed"
@@ -7941,7 +7941,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -7984,8 +7984,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8005,7 +8005,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -8038,8 +8038,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8059,7 +8059,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -8092,8 +8092,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8113,7 +8113,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -8146,8 +8146,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8167,7 +8167,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -8205,8 +8205,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8226,7 +8226,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 600,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -8264,8 +8264,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8285,7 +8285,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -8328,8 +8328,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.grenade-damage"
@@ -8344,7 +8344,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 2000,
     "research_unit_count_formula": "1*(2^(L-6)*1000)",
     "research_unit_energy": 2700,
@@ -8393,8 +8393,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -8414,7 +8414,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -8447,8 +8447,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -8468,7 +8468,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -8491,8 +8491,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -8512,7 +8512,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -8545,8 +8545,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -8566,7 +8566,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -8594,8 +8594,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -8615,7 +8615,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -8653,8 +8653,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -8674,7 +8674,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -8707,8 +8707,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -8728,7 +8728,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -8766,8 +8766,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -8787,7 +8787,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -8820,8 +8820,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -8841,7 +8841,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -8884,8 +8884,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -8905,7 +8905,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -8943,8 +8943,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -8964,7 +8964,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 350,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9007,8 +9007,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -9028,7 +9028,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9071,8 +9071,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.shotgun-shell-damage"
@@ -9087,7 +9087,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-7)*1000)",
     "research_unit_energy": 3600,
@@ -9136,8 +9136,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -9157,7 +9157,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9200,8 +9200,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 8,
     "localised_description": [
       "technology-description.laser-turret-damage"
@@ -9216,7 +9216,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-8)*1000)",
     "research_unit_energy": 3600,
@@ -9265,8 +9265,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.shotgun-shell-speed"
@@ -9286,7 +9286,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -9309,8 +9309,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9330,7 +9330,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -9363,8 +9363,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.shotgun-shell-speed"
@@ -9384,7 +9384,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -9412,8 +9412,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9433,7 +9433,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -9466,8 +9466,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.shotgun-shell-speed"
@@ -9487,7 +9487,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9515,8 +9515,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9536,7 +9536,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9574,8 +9574,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.shotgun-shell-speed"
@@ -9595,7 +9595,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9628,8 +9628,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9649,7 +9649,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9687,8 +9687,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.shotgun-shell-speed"
@@ -9708,7 +9708,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9746,8 +9746,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9767,7 +9767,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9810,8 +9810,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.shotgun-shell-speed"
@@ -9831,7 +9831,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9874,8 +9874,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9895,7 +9895,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 350,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -9938,8 +9938,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.laser-turret-speed"
@@ -9959,7 +9959,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 450,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10002,8 +10002,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10023,7 +10023,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -10051,8 +10051,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10072,7 +10072,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -10100,8 +10100,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10121,7 +10121,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10154,8 +10154,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10175,7 +10175,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10208,8 +10208,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10229,7 +10229,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10267,8 +10267,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10288,7 +10288,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10331,8 +10331,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.gun-turret-damage"
@@ -10347,7 +10347,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-7)*1000)",
     "research_unit_energy": 3600,
@@ -10401,8 +10401,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10422,7 +10422,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -10460,8 +10460,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10481,7 +10481,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 2700,
     "research_unit_ingredients": [
@@ -10519,8 +10519,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10540,7 +10540,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10583,8 +10583,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10604,7 +10604,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 250,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10647,8 +10647,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10668,7 +10668,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10716,8 +10716,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10737,7 +10737,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -10785,8 +10785,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.flamethrower-damage"
@@ -10801,7 +10801,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-7)*1000)",
     "research_unit_energy": 3600,
@@ -10849,8 +10849,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.combat-robotics"
@@ -10868,7 +10868,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -10900,8 +10900,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.combat-robotics"
@@ -10924,7 +10924,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -10961,8 +10961,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.combat-robotics"
@@ -10988,7 +10988,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11030,8 +11030,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11051,7 +11051,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11083,8 +11083,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11104,7 +11104,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11136,8 +11136,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11157,7 +11157,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11194,8 +11194,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11215,7 +11215,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 600,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11252,8 +11252,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11276,7 +11276,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 800,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11318,8 +11318,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11339,7 +11339,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11381,8 +11381,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 7,
     "localised_description": [
       "technology-description.follower-robot-count"
@@ -11397,7 +11397,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(100(L-6)+900)",
     "research_unit_energy": 1800,
@@ -11454,8 +11454,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.kovarex-enrichment-process"
@@ -11470,7 +11470,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11512,8 +11512,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.nuclear-fuel-reprocessing"
@@ -11528,7 +11528,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1500,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11589,8 +11589,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.nuclear-power"
@@ -11608,7 +11608,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11646,8 +11646,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 1,
     "localised_description": [
       "technology-description.combat-robot-damage"
@@ -11667,7 +11667,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11705,8 +11705,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.combat-robot-damage"
@@ -11726,7 +11726,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11764,8 +11764,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.combat-robot-damage"
@@ -11785,7 +11785,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11828,8 +11828,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 4,
     "localised_description": [
       "technology-description.combat-robot-damage"
@@ -11849,7 +11849,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11892,8 +11892,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 5,
     "localised_description": [
       "technology-description.combat-robot-damage"
@@ -11913,7 +11913,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -11961,8 +11961,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 6,
     "localised_description": [
       "technology-description.combat-robot-damage"
@@ -11977,7 +11977,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_count_formula": "1*(2^(L-6)*1000)",
     "research_unit_energy": 1800,
@@ -12025,8 +12025,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.heavy-armor"
@@ -12044,7 +12044,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 30,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12066,8 +12066,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.modular-armor"
@@ -12085,7 +12085,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12112,8 +12112,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.power-armor"
@@ -12131,7 +12131,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12163,8 +12163,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.power-armor-2"
@@ -12190,7 +12190,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 400,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12232,8 +12232,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.energy-shield-equipment"
@@ -12248,7 +12248,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 150,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -12280,8 +12280,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.energy-shield-mk2-equipment"
@@ -12296,7 +12296,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12333,8 +12333,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.night-vision-equipment"
@@ -12349,7 +12349,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -12376,8 +12376,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.exoskeleton-equipment"
@@ -12395,7 +12395,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12427,8 +12427,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.battery-equipment"
@@ -12446,7 +12446,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -12473,8 +12473,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.battery-mk2-equipment"
@@ -12489,7 +12489,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12521,8 +12521,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.solar-panel-equipment"
@@ -12537,7 +12537,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 900,
     "research_unit_ingredients": [
@@ -12564,8 +12564,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.fusion-reactor-equipment"
@@ -12580,7 +12580,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12622,8 +12622,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.personal-laser-defense-equipment"
@@ -12641,7 +12641,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12682,8 +12682,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.discharge-defense-equipment"
@@ -12701,7 +12701,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12733,8 +12733,8 @@
   {
     "effects": {},
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.modules"
@@ -12749,7 +12749,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 100,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12776,8 +12776,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.speed-module"
@@ -12792,7 +12792,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12819,8 +12819,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.speed-module"
@@ -12840,7 +12840,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12872,8 +12872,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.speed-module"
@@ -12893,7 +12893,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -12930,8 +12930,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.productivity-module"
@@ -12946,7 +12946,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -12973,8 +12973,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.productivity-module"
@@ -12994,7 +12994,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -13026,8 +13026,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.productivity-module"
@@ -13047,7 +13047,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -13084,8 +13084,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.effectivity-module"
@@ -13100,7 +13100,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 50,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -13127,8 +13127,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 2,
     "localised_description": [
       "technology-description.effectivity-module"
@@ -13148,7 +13148,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -13180,8 +13180,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 3,
     "localised_description": [
       "technology-description.effectivity-module"
@@ -13201,7 +13201,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 300,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -13238,8 +13238,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.effect-transmission"
@@ -13257,7 +13257,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 75,
     "research_unit_energy": 1800,
     "research_unit_ingredients": [
@@ -13314,8 +13314,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.rocket-silo"
@@ -13339,7 +13339,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 1000,
     "research_unit_energy": 3600,
     "research_unit_ingredients": [
@@ -13386,8 +13386,8 @@
       }
     ],
     "enabled": true,
-    "force": "<ignored>",
-    "isluaobject": "802384732948701238470123",
+    "force": "...",
+    "isluaobject": "...",
     "level": 0,
     "localised_description": [
       "technology-description.cliff-explosives"
@@ -13402,7 +13402,7 @@
         "<parsing limit reached>": 2
       }
     },
-    "prototype": "<ignored>",
+    "prototype": "...",
     "research_unit_count": 200,
     "research_unit_energy": 900,
     "research_unit_ingredients": [

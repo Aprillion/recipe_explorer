@@ -19,7 +19,7 @@
         "chemical": true
       },
       "fuel_inventory_size": 1,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "light_flicker": {
         "minimum_intensity": 0.20000000298023,
         "maximum_intensity": 0.80000001192093,
@@ -92,6 +92,7 @@
       "smelting": true
     },
     "crafting_speed": 1,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 29,
@@ -159,10 +160,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 1,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "stone-furnace": {
         "<parsing limit reached>": 2
@@ -231,7 +232,7 @@
         "x": 0.69921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "smelting-machine", "order": "d"},
     "time_to_live": 0,
     "type": "furnace",
     "valid": true
@@ -256,7 +257,7 @@
         "chemical": true
       },
       "fuel_inventory_size": 1,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "light_flicker": {
         "minimum_intensity": 0.20000000298023,
         "maximum_intensity": 0.80000001192093,
@@ -323,6 +324,7 @@
       "smelting": true
     },
     "crafting_speed": 2,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 29,
@@ -390,10 +392,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 1,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "steel-furnace": {
         "<parsing limit reached>": 2
@@ -454,7 +456,7 @@
         "x": 0.69921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "smelting-machine", "order": "d"},
     "time_to_live": 0,
     "type": "furnace",
     "valid": true
@@ -497,6 +499,7 @@
       "smelting": true
     },
     "crafting_speed": 2,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 86,
@@ -549,7 +552,7 @@
       "effectivity": 1,
       "emissions": 5e-06,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -577,10 +580,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 1,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "electric-furnace": {
         "<parsing limit reached>": 2
@@ -641,7 +644,7 @@
         "x": 1.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "smelting-machine", "order": "d"},
     "time_to_live": 0,
     "type": "furnace",
     "valid": true
@@ -684,6 +687,7 @@
       "crafting": true
     },
     "crafting_speed": 0.5,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 86,
@@ -736,7 +740,7 @@
       "effectivity": 1,
       "emissions": 3.3333333333333e-05,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -764,10 +768,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 2,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "assembling-machine-1": {
         "<parsing limit reached>": 2
@@ -828,7 +832,7 @@
         "x": 1.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "time_to_live": 0,
     "type": "assembling-machine",
     "valid": true
@@ -873,6 +877,7 @@
       "crafting-with-fluid": true
     },
     "crafting_speed": 0.75,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 86,
@@ -925,7 +930,7 @@
       "effectivity": 1,
       "emissions": 1.6e-05,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -953,10 +958,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 4,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "assembling-machine-2": {
         "<parsing limit reached>": 2
@@ -1017,7 +1022,7 @@
         "x": 1.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "time_to_live": 0,
     "type": "assembling-machine",
     "valid": true
@@ -1062,6 +1067,7 @@
       "crafting-with-fluid": true
     },
     "crafting_speed": 1.25,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 86,
@@ -1100,12 +1106,12 @@
     },
     "drawing_box": {
       "left_top": {
-        "y": 0,
-        "x": 0
+        "y": -1.69921875,
+        "x": -1.5
       },
       "right_bottom": {
-        "y": 0,
-        "x": 0
+        "y": 1.5,
+        "x": 1.5
       }
     },
     "electric_energy_source_prototype": {
@@ -1114,7 +1120,7 @@
       "effectivity": 1,
       "emissions": 8.5714285714286e-06,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -1142,10 +1148,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 6,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "assembling-machine-3": {
         "<parsing limit reached>": 2
@@ -1206,7 +1212,7 @@
         "x": 1.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "time_to_live": 0,
     "type": "assembling-machine",
     "valid": true
@@ -1249,6 +1255,7 @@
       "oil-processing": true
     },
     "crafting_speed": 1,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 345,
@@ -1287,12 +1294,12 @@
     },
     "drawing_box": {
       "left_top": {
-        "y": 0,
-        "x": 0
+        "y": -2.796875,
+        "x": -2.5
       },
       "right_bottom": {
-        "y": 0,
-        "x": 0
+        "y": 2.5,
+        "x": 2.5
       }
     },
     "electric_energy_source_prototype": {
@@ -1301,7 +1308,7 @@
       "effectivity": 1,
       "emissions": 8.5714285714286e-06,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -1327,10 +1334,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 4,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "oil-refinery": {
         "<parsing limit reached>": 2
@@ -1385,7 +1392,7 @@
         "x": 2.3984375
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "time_to_live": 0,
     "type": "assembling-machine",
     "valid": true
@@ -1404,12 +1411,12 @@
     "building_grid_bit_shift": 0,
     "collision_box": {
       "left_top": {
-        "y": -1.3984375,
-        "x": -1.3984375
+        "y": -1.19921875,
+        "x": -1.19921875
       },
       "right_bottom": {
-        "y": 1.3984375,
-        "x": 1.3984375
+        "y": 1.19921875,
+        "x": 1.19921875
       }
     },
     "collision_mask": {
@@ -1428,9 +1435,10 @@
       "chemistry": true
     },
     "crafting_speed": 1.25,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
-      "repeat_count": 117,
+      "repeat_count": 86,
       "affects_target": false,
       "smoke_name": "smoke-building",
       "offsets": [
@@ -1441,12 +1449,12 @@
       ],
       "offset_deviation": {
         "left_top": {
-          "x": -1.3984375,
-          "y": -1.3984375
+          "x": -1.19921875,
+          "y": -1.19921875
         },
         "right_bottom": {
-          "x": 1.3984375,
-          "y": 1.3984375
+          "x": 1.19921875,
+          "y": 1.19921875
         },
         "orientation": 0
       },
@@ -1466,12 +1474,12 @@
     },
     "drawing_box": {
       "left_top": {
-        "y": 0,
-        "x": 0
+        "y": -1.8984375,
+        "x": -1.5
       },
       "right_bottom": {
-        "y": 0,
-        "x": 0
+        "y": 1.5,
+        "x": 1.5
       }
     },
     "electric_energy_source_prototype": {
@@ -1480,7 +1488,7 @@
       "effectivity": 1,
       "emissions": 8.5714285714286e-06,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -1507,10 +1515,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 4,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "chemical-plant": {
         "<parsing limit reached>": 2
@@ -1557,15 +1565,15 @@
     "shooting_cursor_size": 3.9,
     "sticker_box": {
       "left_top": {
-        "y": -1.3984375,
-        "x": -1.3984375
+        "y": -1.19921875,
+        "x": -1.19921875
       },
       "right_bottom": {
-        "y": 1.3984375,
-        "x": 1.3984375
+        "y": 1.19921875,
+        "x": 1.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "time_to_live": 0,
     "type": "assembling-machine",
     "valid": true
@@ -1608,6 +1616,7 @@
       "centrifuging": true
     },
     "crafting_speed": 0.75,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 86,
@@ -1646,7 +1655,7 @@
     },
     "drawing_box": {
       "left_top": {
-        "y": -2,
+        "y": -2.19921875,
         "x": -1.5
       },
       "right_bottom": {
@@ -1660,7 +1669,7 @@
       "effectivity": 1,
       "emissions": 1.6e-05,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -1687,10 +1696,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "production", "order": "b"},
     "healing_per_tick": 0,
     "ingredient_count": 2,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "centrifuge": {
         "<parsing limit reached>": 2
@@ -1751,7 +1760,7 @@
         "x": 1.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "time_to_live": 0,
     "type": "assembling-machine",
     "valid": true
@@ -1794,6 +1803,7 @@
       "rocket-building": true
     },
     "crafting_speed": 1,
+    "create_ghost_on_death": true,
     "created_smoke": {
       "type": "create-entity",
       "repeat_count": 1183,
@@ -1846,7 +1856,7 @@
       "effectivity": 1,
       "emissions": 0,
       "input_flow_limit": 0,
-      "isluaobject": "802384732948701238470123",
+      "isluaobject": "...",
       "output_flow_limit": 0,
       "render_no_network_icon": true,
       "render_no_power_icon": true,
@@ -1873,10 +1883,10 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "combat", "order": "d"},
     "healing_per_tick": 0,
     "ingredient_count": 3,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "items_to_place_this": {
       "rocket-silo": {
         "<parsing limit reached>": 2
@@ -1942,7 +1952,7 @@
         "x": 4.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "time_to_live": 0,
     "type": "rocket-silo",
     "valid": true
@@ -1952,7 +1962,96 @@
     "alert_when_damaged": false,
     "allow_copy_paste": true,
     "build_base_evolution_requirement": 0,
+    "build_distance": 6,
     "building_grid_bit_shift": 0,
+    "character_corpse": {
+      "additional_pastable_entities": {},
+      "allow_copy_paste": true,
+      "build_base_evolution_requirement": 0,
+      "building_grid_bit_shift": 0,
+      "collision_box": {
+        "left_top": {
+          "y": 0,
+          "x": 0
+        },
+        "right_bottom": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "collision_mask_collides_with_self": true,
+      "create_ghost_on_death": false,
+      "drawing_box": {
+        "left_top": {
+          "y": 0,
+          "x": 0
+        },
+        "right_bottom": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "emissions_per_tick": 0,
+      "enemy_map_color": {
+        "r": 255,
+        "g": 25,
+        "b": 25,
+        "a": 255
+      },
+      "fluid_capacity": 0,
+      "friendly_map_color": {
+        "r": 0,
+        "g": 96,
+        "b": 145,
+        "a": 255
+      },
+      "group": {"name": "other", "order": "z"},
+      "isluaobject": "...",
+      "localised_description": [
+        "entity-description.character-corpse"
+      ],
+      "localised_name": [
+        "entity-name.character-corpse"
+      ],
+      "max_circuit_wire_distance": 0,
+      "max_energy_usage": 0,
+      "max_health": 0,
+      "mineable_properties": {
+        "minable": true,
+        "hardness": 0.5,
+        "mining_time": 5
+      },
+      "name": "character-corpse",
+      "order": "",
+      "remains_when_mined": {},
+      "selectable_in_game": true,
+      "selection_box": {
+        "left_top": {
+          "y": -0.69921875,
+          "x": -0.69921875
+        },
+        "right_bottom": {
+          "y": 0.69921875,
+          "x": 0.69921875
+        }
+      },
+      "selection_priority": 100,
+      "shooting_cursor_size": 1.81796875,
+      "sticker_box": {
+        "left_top": {
+          "y": 0,
+          "x": 0
+        },
+        "right_bottom": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      "subgroup": {"name": "other", "order": "z"},
+      "time_to_live": 54000,
+      "type": "character-corpse",
+      "valid": true
+    },
     "collision_box": {
       "left_top": {
         "y": -0.19921875,
@@ -1971,6 +2070,13 @@
     "crafting_categories": {
       "crafting": true
     },
+    "create_ghost_on_death": false,
+    "damage_hit_tint": {
+      "r": 1,
+      "g": 0,
+      "b": 0,
+      "a": 0
+    },
     "drawing_box": {
       "left_top": {
         "y": 0,
@@ -1981,6 +2087,7 @@
         "x": 0
       }
     },
+    "drop_item_distance": 6,
     "emissions_per_tick": 0,
     "enemy_map_color": {
       "r": 255,
@@ -1988,6 +2095,7 @@
       "b": 25,
       "a": 255
     },
+    "enter_vehicle_distance": 3,
     "flags": {
       "pushable": true,
       "placeable-off-grid": true,
@@ -2002,18 +2110,21 @@
       "b": 145,
       "a": 255
     },
-    "group": "<ignored>",
+    "group": {"name": "environment", "order": "a"},
     "healing_per_tick": 0.15000000596046,
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
+    "item_pickup_distance": 1,
     "localised_description": [
       "entity-description.player"
     ],
     "localised_name": [
       "entity-name.player"
     ],
+    "loot_pickup_distance": 2,
     "max_circuit_wire_distance": 0,
     "max_energy_usage": 0,
     "max_health": 250,
+    "maximum_corner_sliding_distance": 0.7,
     "mineable_properties": {
       "minable": false,
       "hardness": 0,
@@ -2022,8 +2133,12 @@
     "mining_speed": 0.01,
     "name": "player",
     "order": "a",
+    "reach_distance": 6,
+    "reach_resource_distance": 2.7,
     "remains_when_mined": {},
     "repair_speed_modifier": 1,
+    "respawn_time": 10,
+    "running_speed": 0.15,
     "selectable_in_game": true,
     "selection_box": {
       "left_top": {
@@ -2047,7 +2162,10 @@
         "x": 0.19921875
       }
     },
-    "subgroup": "<ignored>",
+    "subgroup": {"name": "creatures", "order": "a"},
+    "ticks_to_keep_aiming_direction": 100,
+    "ticks_to_keep_gun": 600,
+    "ticks_to_stay_in_combat": 600,
     "time_to_live": 0,
     "type": "player",
     "valid": true

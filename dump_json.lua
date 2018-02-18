@@ -1,11 +1,20 @@
 /c
 local dir = "recipe_explorer"
 
+local function unsafe_access_node_key(node, k)
+  return node[k]
+end
+
 local function unwrap_userdata(node)
   local table = {}
   local help = node.help():gsub('.*Values:', '')
   for k in help:gmatch('%s*([^[]+) %[R[^[]*]') do
-    table[k] = node[k]
+    local success, result = pcall(unsafe_access_node_key, node, k)
+    if (success) then
+      table[k] = result
+    else
+      table[k] = {["<parsing error>"] = result:gsub('\n.*', '')}
+    end
   end
   return table
 end
@@ -34,11 +43,14 @@ table_to_json = function(node, mandatory_index, ignored_indexes, max_level, leve
       else
         out = out .. '"' .. k .. '": '
         if ignored_indexes[k] then
-          out = out .. '"<ignored>"'
+          out = out .. '"..."'
+        elseif k == 'group' or k == 'subgroup' then
+          out = out .. '{"name": "' .. v.name .. '", '
+          out = out .. '"order": "' .. v.order .. '"}'
         else
           local ignored_indexes_next = {}
           for ig_k, ig_v in pairs(ignored_indexes) do
-            ignored_indexes_next[ig_k] = ig_v
+            ignored_indexes_next[ig_k] = true
           end
           ignored_indexes_next[k] = true
           out = out .. node_to_json(v, nil, ignored_indexes_next, max_level, level)
@@ -61,12 +73,7 @@ node_to_json = function(node, mandatory_index, ignored_indexes, max_level, level
     else
       if node.__self then
         if level <= max_level then
-          local success, result = pcall(unwrap_userdata, node)
-          if (success) then
-            node = result
-          else
-            node = {["<parsing error>"] = result:gsub('\n.*', '')}
-          end
+          node = unwrap_userdata(node)
         else
           node = {["<parsing limit reached>"] = max_level}
         end
@@ -96,11 +103,12 @@ local game_settings = {
     mod_settings = game.player.mod_settings
   }
 }
-game.write_file(dir .. "/game.json", node_to_json(game_settings, nil, {}, 2))
 
-local ignored_indexes = {force=true, prototype=true, group=true, subgroup=true}
+local ignored_indexes = {force=true, prototype=true, subgroups=true, isluaobject=true}
 game.write_file(dir .. "/game.player.force.recipes.json", node_to_json(game.player.force.recipes, nil, ignored_indexes, 4))
 game.write_file(dir .. "/game.player.force.technologies.json", node_to_json(game.player.force.technologies, nil, ignored_indexes, 2))
+
+game.write_file(dir .. "/game.json", node_to_json(game_settings, nil, {}, 2))
 
 local mandatory_index = 'crafting_categories'
 game.write_file(dir .. "/game.entity_prototypes.json", node_to_json(game.entity_prototypes, mandatory_index, ignored_indexes, 2))

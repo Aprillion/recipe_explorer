@@ -4,8 +4,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -20,7 +20,7 @@
         "name": "battery"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.accumulator"
     ],
@@ -36,8 +36,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -45,8 +45,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 6,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -66,7 +66,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.advanced-circuit"
     ],
@@ -82,8 +82,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -91,8 +91,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -107,7 +107,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.arithmetic-combinator"
     ],
@@ -123,8 +123,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -132,8 +132,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -153,7 +153,7 @@
         "name": "explosives"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.artillery-shell"
     ],
@@ -169,8 +169,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -178,8 +178,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -194,7 +194,7 @@
         "name": "radar"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.artillery-targeting-remote"
     ],
@@ -210,8 +210,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -219,8 +219,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 40,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -245,7 +245,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.artillery-turret"
     ],
@@ -261,8 +261,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -270,8 +270,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 4,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -301,7 +301,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.artillery-wagon"
     ],
@@ -317,8 +317,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -326,8 +326,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -347,7 +347,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.assembling-machine-1"
     ],
@@ -363,8 +363,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -372,8 +372,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -398,7 +398,7 @@
         "name": "assembling-machine-1"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.assembling-machine-2"
     ],
@@ -414,8 +414,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -423,8 +423,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -439,7 +439,7 @@
         "name": "assembling-machine-2"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.assembling-machine-3"
     ],
@@ -455,8 +455,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -464,8 +464,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 50,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -485,7 +485,7 @@
         "name": "uranium-235"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.atomic-bomb"
     ],
@@ -501,8 +501,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -510,8 +510,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -531,7 +531,7 @@
         "name": "sulfuric-acid"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.battery"
     ],
@@ -547,8 +547,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -556,8 +556,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -572,7 +572,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.battery-equipment"
     ],
@@ -588,8 +588,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -597,8 +597,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -613,7 +613,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.battery-mk2-equipment"
     ],
@@ -629,8 +629,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -638,8 +638,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -664,7 +664,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.beacon"
     ],
@@ -680,8 +680,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -689,8 +689,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -705,7 +705,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.big-electric-pole"
     ],
@@ -721,8 +721,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -730,8 +730,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -746,7 +746,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.boiler"
     ],
@@ -762,8 +762,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -771,8 +771,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -787,7 +787,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.burner-inserter"
     ],
@@ -803,8 +803,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -812,8 +812,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -833,7 +833,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.burner-mining-drill"
     ],
@@ -849,8 +849,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "extraction-machine", "order": "c"},
     "valid": true
   },
   {
@@ -858,8 +858,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -879,7 +879,7 @@
         "name": "explosives"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.cannon-shell"
     ],
@@ -895,8 +895,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -904,8 +904,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -925,7 +925,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.car"
     ],
@@ -941,8 +941,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -950,8 +950,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -971,7 +971,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.cargo-wagon"
     ],
@@ -987,8 +987,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -996,8 +996,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 4,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1022,7 +1022,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.centrifuge"
     ],
@@ -1038,8 +1038,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -1047,8 +1047,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1073,7 +1073,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.chemical-plant"
     ],
@@ -1089,8 +1089,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -1098,8 +1098,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1119,7 +1119,7 @@
         "name": "empty-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.cliff-explosives"
     ],
@@ -1135,8 +1135,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "terrain", "order": "h"},
     "valid": true
   },
   {
@@ -1144,8 +1144,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1165,7 +1165,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.cluster-grenade"
     ],
@@ -1181,8 +1181,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -1190,8 +1190,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1216,7 +1216,7 @@
         "name": "wood"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.combat-shotgun"
     ],
@@ -1232,8 +1232,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -1241,8 +1241,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1262,7 +1262,7 @@
         "name": "water"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.concrete"
     ],
@@ -1278,8 +1278,8 @@
         "amount": 10
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "terrain", "order": "h"},
     "valid": true
   },
   {
@@ -1287,8 +1287,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1303,7 +1303,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.constant-combinator"
     ],
@@ -1319,8 +1319,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -1328,8 +1328,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1344,7 +1344,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.construction-robot"
     ],
@@ -1360,8 +1360,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -1369,8 +1369,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1380,7 +1380,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.copper-cable"
     ],
@@ -1396,8 +1396,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -1405,8 +1405,8 @@
     "category": "smelting",
     "enabled": true,
     "energy": 3.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1416,7 +1416,7 @@
         "name": "copper-ore"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.copper-plate"
     ],
@@ -1432,8 +1432,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -1441,8 +1441,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1457,7 +1457,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.decider-combinator"
     ],
@@ -1473,8 +1473,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -1482,8 +1482,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1503,7 +1503,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.defender-capsule"
     ],
@@ -1519,8 +1519,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -1528,8 +1528,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1544,7 +1544,7 @@
         "name": "speed-module"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.destroyer-capsule"
     ],
@@ -1560,8 +1560,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -1569,8 +1569,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1590,7 +1590,7 @@
         "name": "laser-turret"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.discharge-defense-equipment"
     ],
@@ -1606,8 +1606,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -1615,8 +1615,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1626,7 +1626,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.discharge-defense-remote"
     ],
@@ -1642,8 +1642,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -1651,8 +1651,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1667,7 +1667,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.distractor-capsule"
     ],
@@ -1683,8 +1683,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -1692,8 +1692,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1708,7 +1708,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.effectivity-module"
     ],
@@ -1724,8 +1724,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -1733,8 +1733,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1754,7 +1754,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.effectivity-module-2"
     ],
@@ -1770,8 +1770,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -1779,8 +1779,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 60,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1800,7 +1800,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.effectivity-module-3"
     ],
@@ -1816,8 +1816,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -1825,8 +1825,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1841,7 +1841,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.electric-energy-interface"
     ],
@@ -1857,8 +1857,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -1866,8 +1866,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1887,7 +1887,7 @@
         "name": "lubricant"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.electric-engine-unit"
     ],
@@ -1903,8 +1903,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -1912,8 +1912,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1933,7 +1933,7 @@
         "name": "stone-brick"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.electric-furnace"
     ],
@@ -1949,8 +1949,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "smelting-machine", "order": "d"},
     "valid": true
   },
   {
@@ -1958,8 +1958,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -1979,7 +1979,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.electric-mining-drill"
     ],
@@ -1995,8 +1995,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "extraction-machine", "order": "c"},
     "valid": true
   },
   {
@@ -2004,8 +2004,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2020,7 +2020,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.electronic-circuit"
     ],
@@ -2036,8 +2036,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -2045,8 +2045,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2056,7 +2056,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-barrel"
     ],
@@ -2072,8 +2072,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -2081,8 +2081,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2097,7 +2097,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.energy-shield-equipment"
     ],
@@ -2113,8 +2113,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -2122,8 +2122,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2138,7 +2138,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.energy-shield-mk2-equipment"
     ],
@@ -2154,8 +2154,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -2163,8 +2163,8 @@
     "category": "advanced-crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2184,7 +2184,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.engine-unit"
     ],
@@ -2200,8 +2200,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -2209,8 +2209,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2230,7 +2230,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.exoskeleton-equipment"
     ],
@@ -2246,8 +2246,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -2255,8 +2255,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2276,7 +2276,7 @@
         "name": "explosives"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.explosive-cannon-shell"
     ],
@@ -2292,8 +2292,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -2301,8 +2301,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2317,7 +2317,7 @@
         "name": "explosives"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.explosive-rocket"
     ],
@@ -2333,8 +2333,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -2342,8 +2342,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 12,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2358,7 +2358,7 @@
         "name": "uranium-238"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.explosive-uranium-cannon-shell"
     ],
@@ -2374,8 +2374,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -2383,8 +2383,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2404,7 +2404,7 @@
         "name": "water"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.explosives"
     ],
@@ -2420,8 +2420,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -2429,8 +2429,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2445,7 +2445,7 @@
         "name": "fast-loader"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.express-loader"
     ],
@@ -2461,8 +2461,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2470,8 +2470,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2496,7 +2496,7 @@
         "name": "lubricant"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.express-splitter"
     ],
@@ -2512,8 +2512,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2521,8 +2521,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2542,7 +2542,7 @@
         "name": "lubricant"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.express-transport-belt"
     ],
@@ -2558,8 +2558,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2567,8 +2567,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2588,7 +2588,7 @@
         "name": "lubricant"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.express-underground-belt"
     ],
@@ -2604,8 +2604,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2613,8 +2613,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2634,7 +2634,7 @@
         "name": "inserter"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fast-inserter"
     ],
@@ -2650,8 +2650,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -2659,8 +2659,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2675,7 +2675,7 @@
         "name": "loader"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fast-loader"
     ],
@@ -2691,8 +2691,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2700,8 +2700,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2721,7 +2721,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fast-splitter"
     ],
@@ -2737,8 +2737,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2746,8 +2746,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2762,7 +2762,7 @@
         "name": "transport-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fast-transport-belt"
     ],
@@ -2778,8 +2778,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2787,8 +2787,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2803,7 +2803,7 @@
         "name": "underground-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fast-underground-belt"
     ],
@@ -2819,8 +2819,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -2828,8 +2828,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2844,7 +2844,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.filter-inserter"
     ],
@@ -2860,8 +2860,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -2869,8 +2869,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2880,7 +2880,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.firearm-magazine"
     ],
@@ -2896,8 +2896,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -2905,8 +2905,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2921,7 +2921,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.flamethrower"
     ],
@@ -2937,8 +2937,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -2946,8 +2946,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 6,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -2967,7 +2967,7 @@
         "name": "heavy-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.flamethrower-ammo"
     ],
@@ -2983,8 +2983,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -2992,8 +2992,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 20,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3018,7 +3018,7 @@
         "name": "engine-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.flamethrower-turret"
     ],
@@ -3034,8 +3034,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -3043,8 +3043,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3069,7 +3069,7 @@
         "name": "storage-tank"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fluid-wagon"
     ],
@@ -3085,8 +3085,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -3094,8 +3094,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 20,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3120,7 +3120,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.flying-robot-frame"
     ],
@@ -3136,8 +3136,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -3145,8 +3145,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3156,7 +3156,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fusion-reactor-equipment"
     ],
@@ -3172,8 +3172,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -3181,8 +3181,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3202,7 +3202,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.gate"
     ],
@@ -3218,8 +3218,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -3227,8 +3227,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3243,7 +3243,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.green-wire"
     ],
@@ -3259,8 +3259,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -3268,8 +3268,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3284,7 +3284,7 @@
         "name": "coal"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.grenade"
     ],
@@ -3300,8 +3300,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -3309,8 +3309,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3330,7 +3330,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.gun-turret"
     ],
@@ -3346,8 +3346,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -3355,8 +3355,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.25,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3366,7 +3366,7 @@
         "name": "concrete"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.hazard-concrete"
     ],
@@ -3382,8 +3382,8 @@
         "amount": 10
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "terrain", "order": "h"},
     "valid": true
   },
   {
@@ -3391,8 +3391,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3412,7 +3412,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.heat-exchanger"
     ],
@@ -3428,8 +3428,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -3437,8 +3437,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3453,7 +3453,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.heat-pipe"
     ],
@@ -3469,8 +3469,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -3478,8 +3478,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3494,7 +3494,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.heavy-armor"
     ],
@@ -3510,8 +3510,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "armor", "order": "d"},
     "valid": true
   },
   {
@@ -3519,8 +3519,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 14,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3545,7 +3545,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.high-tech-science-pack"
     ],
@@ -3561,8 +3561,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "science-pack", "order": "g"},
     "valid": true
   },
   {
@@ -3570,8 +3570,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3591,7 +3591,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.inserter"
     ],
@@ -3607,8 +3607,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -3616,8 +3616,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3632,7 +3632,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.iron-axe"
     ],
@@ -3648,8 +3648,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "tool", "order": "a"},
     "valid": true
   },
   {
@@ -3657,8 +3657,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3668,7 +3668,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.iron-chest"
     ],
@@ -3684,8 +3684,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "storage", "order": "a"},
     "valid": true
   },
   {
@@ -3693,8 +3693,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3704,7 +3704,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.iron-gear-wheel"
     ],
@@ -3720,8 +3720,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -3729,8 +3729,8 @@
     "category": "smelting",
     "enabled": true,
     "energy": 3.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3740,7 +3740,7 @@
         "name": "iron-ore"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.iron-plate"
     ],
@@ -3756,8 +3756,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -3765,8 +3765,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3776,7 +3776,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.iron-stick"
     ],
@@ -3792,8 +3792,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -3801,8 +3801,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3822,7 +3822,7 @@
         "name": "transport-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.lab"
     ],
@@ -3838,8 +3838,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -3847,8 +3847,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3863,7 +3863,7 @@
         "name": "explosives"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.land-mine"
     ],
@@ -3879,8 +3879,8 @@
         "amount": 4
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -3888,8 +3888,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3899,7 +3899,7 @@
         "name": "stone"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.landfill"
     ],
@@ -3915,8 +3915,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "terrain", "order": "h"},
     "valid": true
   },
   {
@@ -3924,8 +3924,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 20,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3945,7 +3945,7 @@
         "name": "battery"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.laser-turret"
     ],
@@ -3961,8 +3961,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -3970,8 +3970,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -3981,7 +3981,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.light-armor"
     ],
@@ -3997,8 +3997,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "armor", "order": "d"},
     "valid": true
   },
   {
@@ -4006,8 +4006,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4037,7 +4037,7 @@
         "name": "transport-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.loader"
     ],
@@ -4053,8 +4053,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -4062,8 +4062,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 4,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4083,7 +4083,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.locomotive"
     ],
@@ -4099,8 +4099,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -4108,8 +4108,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4129,7 +4129,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.logistic-chest-active-provider"
     ],
@@ -4145,8 +4145,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -4154,8 +4154,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4175,7 +4175,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.logistic-chest-buffer"
     ],
@@ -4191,8 +4191,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -4200,8 +4200,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4221,7 +4221,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.logistic-chest-passive-provider"
     ],
@@ -4237,8 +4237,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -4246,8 +4246,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4267,7 +4267,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.logistic-chest-requester"
     ],
@@ -4283,8 +4283,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -4292,8 +4292,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4313,7 +4313,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.logistic-chest-storage"
     ],
@@ -4329,8 +4329,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -4338,8 +4338,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4354,7 +4354,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.logistic-robot"
     ],
@@ -4370,8 +4370,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -4379,8 +4379,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4400,7 +4400,7 @@
         "name": "inserter"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.long-handed-inserter"
     ],
@@ -4416,8 +4416,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -4425,8 +4425,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4446,7 +4446,7 @@
         "name": "plastic-bar"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.low-density-structure"
     ],
@@ -4462,8 +4462,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -4471,8 +4471,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4482,7 +4482,7 @@
         "name": "heavy-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.lubricant"
     ],
@@ -4498,8 +4498,8 @@
         "amount": 10
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -4507,8 +4507,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4523,7 +4523,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.medium-electric-pole"
     ],
@@ -4539,8 +4539,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -4548,8 +4548,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4569,7 +4569,7 @@
         "name": "gun-turret"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.military-science-pack"
     ],
@@ -4585,8 +4585,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "science-pack", "order": "g"},
     "valid": true
   },
   {
@@ -4594,8 +4594,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4610,7 +4610,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.modular-armor"
     ],
@@ -4626,8 +4626,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "armor", "order": "d"},
     "valid": true
   },
   {
@@ -4635,8 +4635,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4651,7 +4651,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.night-vision-equipment"
     ],
@@ -4667,8 +4667,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -4676,8 +4676,8 @@
     "category": "centrifuging",
     "enabled": false,
     "energy": 60,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4692,7 +4692,7 @@
         "name": "rocket-fuel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.nuclear-fuel"
     ],
@@ -4708,8 +4708,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -4717,8 +4717,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4743,7 +4743,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.nuclear-reactor"
     ],
@@ -4759,8 +4759,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -4768,8 +4768,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4789,7 +4789,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.offshore-pump"
     ],
@@ -4805,8 +4805,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "extraction-machine", "order": "c"},
     "valid": true
   },
   {
@@ -4814,8 +4814,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4845,7 +4845,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.oil-refinery"
     ],
@@ -4861,8 +4861,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "production-machine", "order": "e"},
     "valid": true
   },
   {
@@ -4870,8 +4870,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4891,7 +4891,7 @@
         "name": "laser-turret"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.personal-laser-defense-equipment"
     ],
@@ -4907,8 +4907,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -4916,8 +4916,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4942,7 +4942,7 @@
         "name": "battery"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.personal-roboport-equipment"
     ],
@@ -4958,8 +4958,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -4967,8 +4967,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 20,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -4983,7 +4983,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.personal-roboport-mk2-equipment"
     ],
@@ -4999,8 +4999,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -5008,8 +5008,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5029,7 +5029,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.piercing-rounds-magazine"
     ],
@@ -5045,8 +5045,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -5054,8 +5054,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5075,7 +5075,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.piercing-shotgun-shell"
     ],
@@ -5091,8 +5091,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -5100,8 +5100,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5111,7 +5111,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.pipe"
     ],
@@ -5127,8 +5127,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -5136,8 +5136,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5152,7 +5152,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.pipe-to-ground"
     ],
@@ -5168,8 +5168,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -5177,8 +5177,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5193,7 +5193,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.pistol"
     ],
@@ -5209,8 +5209,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -5218,8 +5218,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5234,7 +5234,7 @@
         "name": "petroleum-gas"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.plastic-bar"
     ],
@@ -5250,8 +5250,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -5259,8 +5259,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5280,7 +5280,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.player-port"
     ],
@@ -5296,8 +5296,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -5305,8 +5305,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5326,7 +5326,7 @@
         "name": "coal"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.poison-capsule"
     ],
@@ -5342,8 +5342,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -5351,8 +5351,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 20,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5372,7 +5372,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.power-armor"
     ],
@@ -5388,8 +5388,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "armor", "order": "d"},
     "valid": true
   },
   {
@@ -5397,8 +5397,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 25,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5423,7 +5423,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.power-armor-mk2"
     ],
@@ -5439,8 +5439,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "armor", "order": "d"},
     "valid": true
   },
   {
@@ -5448,8 +5448,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5469,7 +5469,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.power-switch"
     ],
@@ -5485,8 +5485,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -5494,8 +5494,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5515,7 +5515,7 @@
         "name": "sulfuric-acid"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.processing-unit"
     ],
@@ -5531,8 +5531,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -5540,8 +5540,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 14,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5556,7 +5556,7 @@
         "name": "electric-furnace"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.production-science-pack"
     ],
@@ -5572,8 +5572,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "science-pack", "order": "g"},
     "valid": true
   },
   {
@@ -5581,8 +5581,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5597,7 +5597,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.productivity-module"
     ],
@@ -5613,8 +5613,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -5622,8 +5622,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5643,7 +5643,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.productivity-module-2"
     ],
@@ -5659,8 +5659,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -5668,8 +5668,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 60,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5689,7 +5689,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.productivity-module-3"
     ],
@@ -5705,8 +5705,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -5714,8 +5714,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5735,7 +5735,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.programmable-speaker"
     ],
@@ -5751,8 +5751,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -5760,8 +5760,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5781,7 +5781,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.pump"
     ],
@@ -5797,8 +5797,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -5806,8 +5806,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5832,7 +5832,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.pumpjack"
     ],
@@ -5848,8 +5848,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "extraction-machine", "order": "c"},
     "valid": true
   },
   {
@@ -5857,8 +5857,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5878,7 +5878,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.radar"
     ],
@@ -5894,8 +5894,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -5903,8 +5903,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5924,7 +5924,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rail"
     ],
@@ -5940,8 +5940,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -5949,8 +5949,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -5965,7 +5965,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rail-chain-signal"
     ],
@@ -5981,8 +5981,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -5990,8 +5990,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6006,7 +6006,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rail-signal"
     ],
@@ -6022,8 +6022,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -6031,8 +6031,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6057,7 +6057,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.railgun"
     ],
@@ -6073,8 +6073,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -6082,8 +6082,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6098,7 +6098,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.railgun-dart"
     ],
@@ -6114,8 +6114,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -6123,8 +6123,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6139,7 +6139,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.red-wire"
     ],
@@ -6155,8 +6155,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -6164,8 +6164,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6180,7 +6180,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.repair-pack"
     ],
@@ -6196,8 +6196,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "tool", "order": "a"},
     "valid": true
   },
   {
@@ -6205,8 +6205,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6226,7 +6226,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.roboport"
     ],
@@ -6242,8 +6242,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "logistic-network", "order": "f"},
     "valid": true
   },
   {
@@ -6251,8 +6251,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6272,7 +6272,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rocket"
     ],
@@ -6288,8 +6288,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -6297,8 +6297,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6313,7 +6313,7 @@
         "name": "speed-module"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rocket-control-unit"
     ],
@@ -6329,8 +6329,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -6338,8 +6338,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6349,7 +6349,7 @@
         "name": "solid-fuel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rocket-fuel"
     ],
@@ -6365,8 +6365,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -6374,8 +6374,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6395,7 +6395,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rocket-launcher"
     ],
@@ -6411,8 +6411,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -6420,8 +6420,8 @@
     "category": "rocket-building",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": true,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6441,7 +6441,7 @@
         "name": "rocket-fuel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rocket-part"
     ],
@@ -6457,8 +6457,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -6466,8 +6466,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6497,7 +6497,7 @@
         "name": "electric-engine-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.rocket-silo"
     ],
@@ -6513,8 +6513,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -6522,8 +6522,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6558,7 +6558,7 @@
         "name": "rocket-fuel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.satellite"
     ],
@@ -6574,8 +6574,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -6583,8 +6583,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6599,7 +6599,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.science-pack-1"
     ],
@@ -6615,8 +6615,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "science-pack", "order": "g"},
     "valid": true
   },
   {
@@ -6624,8 +6624,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 6,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6640,7 +6640,7 @@
         "name": "transport-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.science-pack-2"
     ],
@@ -6656,8 +6656,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "science-pack", "order": "g"},
     "valid": true
   },
   {
@@ -6665,8 +6665,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 12,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6686,7 +6686,7 @@
         "name": "electric-mining-drill"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.science-pack-3"
     ],
@@ -6702,8 +6702,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "science-pack", "order": "g"},
     "valid": true
   },
   {
@@ -6711,8 +6711,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6737,7 +6737,7 @@
         "name": "wood"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.shotgun"
     ],
@@ -6753,8 +6753,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -6762,8 +6762,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6778,7 +6778,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.shotgun-shell"
     ],
@@ -6794,8 +6794,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -6803,8 +6803,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 8,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6824,7 +6824,7 @@
         "name": "coal"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.slowdown-capsule"
     ],
@@ -6840,8 +6840,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "capsule", "order": "c"},
     "valid": true
   },
   {
@@ -6849,8 +6849,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6865,7 +6865,7 @@
         "name": "copper-cable"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.small-electric-pole"
     ],
@@ -6881,8 +6881,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -6890,8 +6890,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6911,7 +6911,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.small-lamp"
     ],
@@ -6927,8 +6927,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "circuit-network", "order": "g"},
     "valid": true
   },
   {
@@ -6936,8 +6936,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -6962,7 +6962,7 @@
         "name": "battery"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.small-plane"
     ],
@@ -6978,8 +6978,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -6987,8 +6987,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7008,7 +7008,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.solar-panel"
     ],
@@ -7024,8 +7024,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -7033,8 +7033,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7054,7 +7054,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.solar-panel-equipment"
     ],
@@ -7070,8 +7070,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "equipment", "order": "e"},
     "valid": true
   },
   {
@@ -7079,8 +7079,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 15,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7095,7 +7095,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.speed-module"
     ],
@@ -7111,8 +7111,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -7120,8 +7120,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 30,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7141,7 +7141,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.speed-module-2"
     ],
@@ -7157,8 +7157,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -7166,8 +7166,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 60,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7187,7 +7187,7 @@
         "name": "processing-unit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.speed-module-3"
     ],
@@ -7203,8 +7203,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "module", "order": "f"},
     "valid": true
   },
   {
@@ -7212,8 +7212,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7233,7 +7233,7 @@
         "name": "transport-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.splitter"
     ],
@@ -7249,8 +7249,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -7258,8 +7258,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7274,7 +7274,7 @@
         "name": "electronic-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.stack-filter-inserter"
     ],
@@ -7290,8 +7290,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -7299,8 +7299,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7325,7 +7325,7 @@
         "name": "fast-inserter"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.stack-inserter"
     ],
@@ -7341,8 +7341,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "inserter", "order": "c"},
     "valid": true
   },
   {
@@ -7350,8 +7350,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7371,7 +7371,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.steam-engine"
     ],
@@ -7387,8 +7387,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -7396,8 +7396,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7417,7 +7417,7 @@
         "name": "pipe"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.steam-turbine"
     ],
@@ -7433,8 +7433,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy", "order": "b"},
     "valid": true
   },
   {
@@ -7442,8 +7442,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7458,7 +7458,7 @@
         "name": "iron-stick"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.steel-axe"
     ],
@@ -7474,8 +7474,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "tool", "order": "a"},
     "valid": true
   },
   {
@@ -7483,8 +7483,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7494,7 +7494,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.steel-chest"
     ],
@@ -7510,8 +7510,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "storage", "order": "a"},
     "valid": true
   },
   {
@@ -7519,8 +7519,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7535,7 +7535,7 @@
         "name": "stone-brick"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.steel-furnace"
     ],
@@ -7551,8 +7551,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "smelting-machine", "order": "d"},
     "valid": true
   },
   {
@@ -7560,8 +7560,8 @@
     "category": "smelting",
     "enabled": false,
     "energy": 17.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7571,7 +7571,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.steel-plate"
     ],
@@ -7587,8 +7587,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -7596,8 +7596,8 @@
     "category": "smelting",
     "enabled": true,
     "energy": 3.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7607,7 +7607,7 @@
         "name": "stone"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.stone-brick"
     ],
@@ -7623,8 +7623,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "terrain", "order": "h"},
     "valid": true
   },
   {
@@ -7632,8 +7632,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "production", "order": "b"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7643,7 +7643,7 @@
         "name": "stone"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.stone-furnace"
     ],
@@ -7659,8 +7659,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "smelting-machine", "order": "d"},
     "valid": true
   },
   {
@@ -7668,8 +7668,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7679,7 +7679,7 @@
         "name": "stone-brick"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.stone-wall"
     ],
@@ -7695,8 +7695,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "defensive-structure", "order": "f"},
     "valid": true
   },
   {
@@ -7704,8 +7704,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7720,7 +7720,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.storage-tank"
     ],
@@ -7736,8 +7736,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "storage", "order": "a"},
     "valid": true
   },
   {
@@ -7745,8 +7745,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7766,7 +7766,7 @@
         "name": "iron-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.submachine-gun"
     ],
@@ -7782,8 +7782,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "gun", "order": "a"},
     "valid": true
   },
   {
@@ -7791,8 +7791,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7812,7 +7812,7 @@
         "name": "copper-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.substation"
     ],
@@ -7828,8 +7828,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "energy-pipe-distribution", "order": "d"},
     "valid": true
   },
   {
@@ -7837,8 +7837,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7853,7 +7853,7 @@
         "name": "petroleum-gas"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.sulfur"
     ],
@@ -7869,8 +7869,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -7878,8 +7878,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7899,7 +7899,7 @@
         "name": "water"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.sulfuric-acid"
     ],
@@ -7915,8 +7915,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -7924,8 +7924,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7950,7 +7950,7 @@
         "name": "advanced-circuit"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.tank"
     ],
@@ -7966,8 +7966,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -7975,8 +7975,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -7996,7 +7996,7 @@
         "name": "steel-plate"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.train-stop"
     ],
@@ -8012,8 +8012,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "transport", "order": "e"},
     "valid": true
   },
   {
@@ -8021,8 +8021,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8037,7 +8037,7 @@
         "name": "iron-gear-wheel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.transport-belt"
     ],
@@ -8053,8 +8053,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -8062,8 +8062,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 1,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8078,7 +8078,7 @@
         "name": "transport-belt"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.underground-belt"
     ],
@@ -8094,8 +8094,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "belt", "order": "b"},
     "valid": true
   },
   {
@@ -8103,8 +8103,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 12,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8119,7 +8119,7 @@
         "name": "uranium-238"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.uranium-cannon-shell"
     ],
@@ -8135,8 +8135,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -8144,8 +8144,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8165,7 +8165,7 @@
         "name": "uranium-238"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.uranium-fuel-cell"
     ],
@@ -8181,8 +8181,8 @@
         "amount": 10
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -8190,8 +8190,8 @@
     "category": "crafting",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "combat", "order": "d"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8206,7 +8206,7 @@
         "name": "uranium-238"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.uranium-rounds-magazine"
     ],
@@ -8222,8 +8222,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "ammo", "order": "b"},
     "valid": true
   },
   {
@@ -8231,8 +8231,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8242,7 +8242,7 @@
         "name": "raw-wood"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.wood"
     ],
@@ -8258,8 +8258,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -8267,8 +8267,8 @@
     "category": "crafting",
     "enabled": true,
     "energy": 0.5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "logistics", "order": "aaa"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8278,7 +8278,7 @@
         "name": "wood"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.wooden-chest"
     ],
@@ -8294,8 +8294,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "storage", "order": "a"},
     "valid": true
   },
   {
@@ -8303,8 +8303,8 @@
     "category": "oil-processing",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8314,7 +8314,7 @@
         "name": "crude-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.basic-oil-processing"
     ],
@@ -8340,8 +8340,8 @@
         "amount": 40
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8349,8 +8349,8 @@
     "category": "oil-processing",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8365,7 +8365,7 @@
         "name": "crude-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.advanced-oil-processing"
     ],
@@ -8391,8 +8391,8 @@
         "amount": 55
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8400,8 +8400,8 @@
     "category": "oil-processing",
     "enabled": false,
     "energy": 5,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8421,7 +8421,7 @@
         "name": "steam"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.coal-liquefaction"
     ],
@@ -8447,8 +8447,8 @@
         "amount": 20
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8456,8 +8456,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8472,7 +8472,7 @@
         "name": "crude-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-crude-oil-barrel"
     ],
@@ -8491,8 +8491,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8500,8 +8500,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8516,7 +8516,7 @@
         "name": "heavy-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-heavy-oil-barrel"
     ],
@@ -8535,8 +8535,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8544,8 +8544,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8560,7 +8560,7 @@
         "name": "light-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-light-oil-barrel"
     ],
@@ -8579,8 +8579,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8588,8 +8588,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8604,7 +8604,7 @@
         "name": "lubricant"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-lubricant-barrel"
     ],
@@ -8623,8 +8623,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8632,8 +8632,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8648,7 +8648,7 @@
         "name": "petroleum-gas"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-petroleum-gas-barrel"
     ],
@@ -8667,8 +8667,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8676,8 +8676,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8692,7 +8692,7 @@
         "name": "sulfuric-acid"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-sulfuric-acid-barrel"
     ],
@@ -8711,8 +8711,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8720,8 +8720,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8736,7 +8736,7 @@
         "name": "water"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.fill-water-barrel"
     ],
@@ -8755,8 +8755,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fill-barrel", "order": "d"},
     "valid": true
   },
   {
@@ -8764,8 +8764,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8780,7 +8780,7 @@
         "name": "heavy-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.heavy-oil-cracking"
     ],
@@ -8796,8 +8796,8 @@
         "amount": 30
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8805,8 +8805,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8821,7 +8821,7 @@
         "name": "light-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.light-oil-cracking"
     ],
@@ -8837,8 +8837,8 @@
         "amount": 20
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8846,8 +8846,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8857,7 +8857,7 @@
         "name": "light-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.solid-fuel-from-light-oil"
     ],
@@ -8873,8 +8873,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8882,8 +8882,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8893,7 +8893,7 @@
         "name": "petroleum-gas"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.solid-fuel-from-petroleum-gas"
     ],
@@ -8909,8 +8909,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8918,8 +8918,8 @@
     "category": "chemistry",
     "enabled": false,
     "energy": 3,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -8929,7 +8929,7 @@
         "name": "heavy-oil"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.solid-fuel-from-heavy-oil"
     ],
@@ -8945,8 +8945,8 @@
         "amount": 1
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "fluid-recipes", "order": "a"},
     "valid": true
   },
   {
@@ -8954,8 +8954,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -8965,7 +8965,7 @@
         "name": "crude-oil-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-crude-oil-barrel"
     ],
@@ -8989,8 +8989,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -8998,8 +8998,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -9009,7 +9009,7 @@
         "name": "heavy-oil-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-heavy-oil-barrel"
     ],
@@ -9033,8 +9033,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -9042,8 +9042,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -9053,7 +9053,7 @@
         "name": "light-oil-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-light-oil-barrel"
     ],
@@ -9077,8 +9077,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -9086,8 +9086,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -9097,7 +9097,7 @@
         "name": "lubricant-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-lubricant-barrel"
     ],
@@ -9121,8 +9121,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -9130,8 +9130,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -9141,7 +9141,7 @@
         "name": "petroleum-gas-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-petroleum-gas-barrel"
     ],
@@ -9165,8 +9165,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -9174,8 +9174,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -9185,7 +9185,7 @@
         "name": "sulfuric-acid-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-sulfuric-acid-barrel"
     ],
@@ -9209,8 +9209,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -9218,8 +9218,8 @@
     "category": "crafting-with-fluid",
     "enabled": false,
     "energy": 0.2,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": true,
     "ingredients": [
@@ -9229,7 +9229,7 @@
         "name": "water-barrel"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.empty-water-barrel"
     ],
@@ -9253,8 +9253,8 @@
         "amount": 50
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "empty-barrel", "order": "e"},
     "valid": true
   },
   {
@@ -9262,8 +9262,8 @@
     "category": "centrifuging",
     "enabled": false,
     "energy": 10,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -9273,7 +9273,7 @@
         "name": "uranium-ore"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.uranium-processing"
     ],
@@ -9298,8 +9298,8 @@
         "probability": 0.993
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "raw-material", "order": "c"},
     "valid": true
   },
   {
@@ -9307,8 +9307,8 @@
     "category": "centrifuging",
     "enabled": false,
     "energy": 50,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -9318,7 +9318,7 @@
         "name": "used-up-uranium-fuel-cell"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.nuclear-fuel-reprocessing"
     ],
@@ -9334,8 +9334,8 @@
         "amount": 3
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   },
   {
@@ -9350,8 +9350,8 @@
           "fuel_acceleration_multiplier": 1,
           "fuel_top_speed_multiplier": 1,
           "fuel_value": 0,
-          "group": "<ignored>",
-          "isluaobject": "802384732948701238470123",
+          "group": {"name": "intermediate-products", "order": "c"},
+          "isluaobject": "...",
           "localised_description": [
             "item-description.uranium-235"
           ],
@@ -9363,7 +9363,7 @@
           "rocket_launch_products": {},
           "stack_size": 100,
           "stackable": true,
-          "subgroup": "<ignored>",
+          "subgroup": {"name": "intermediate-product", "order": "f"},
           "type": "item",
           "valid": true
         },
@@ -9379,8 +9379,8 @@
           "fuel_acceleration_multiplier": 1,
           "fuel_top_speed_multiplier": 1,
           "fuel_value": 0,
-          "group": "<ignored>",
-          "isluaobject": "802384732948701238470123",
+          "group": {"name": "intermediate-products", "order": "c"},
+          "isluaobject": "...",
           "localised_description": [
             "item-description.uranium-238"
           ],
@@ -9392,7 +9392,7 @@
           "rocket_launch_products": {},
           "stack_size": 100,
           "stackable": true,
-          "subgroup": "<ignored>",
+          "subgroup": {"name": "intermediate-product", "order": "f"},
           "type": "item",
           "valid": true
         },
@@ -9402,8 +9402,8 @@
     "category": "centrifuging",
     "enabled": false,
     "energy": 50,
-    "force": "<ignored>",
-    "group": "<ignored>",
+    "force": "...",
+    "group": {"name": "intermediate-products", "order": "c"},
     "hidden": false,
     "hidden_from_flow_stats": false,
     "ingredients": [
@@ -9418,7 +9418,7 @@
         "name": "uranium-238"
       }
     ],
-    "isluaobject": "802384732948701238470123",
+    "isluaobject": "...",
     "localised_description": [
       "recipe-description.kovarex-enrichment-process"
     ],
@@ -9439,8 +9439,8 @@
         "amount": 2
       }
     ],
-    "prototype": "<ignored>",
-    "subgroup": "<ignored>",
+    "prototype": "...",
+    "subgroup": {"name": "intermediate-product", "order": "f"},
     "valid": true
   }
 ]
