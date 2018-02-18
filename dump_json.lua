@@ -32,19 +32,14 @@ table_to_json = function(node, mandatory_index, ignored_indexes, max_level, leve
     end
     if matching_mandatory then
       i = i + 1
-      if i == 1 then
-        out = out .. "\n"
-      else
-        out = out .. ",\n"
+      if i > 1 and (is_array or not ignored_indexes[k]) then
+        out = out .. ", "
       end
-      out = out .. string.rep(' ', level * 2)
       if is_array then
         out = out .. node_to_json(v, nil, ignored_indexes, max_level, level)
-      else
+      elseif not ignored_indexes[k] then
         out = out .. '"' .. k .. '": '
-        if ignored_indexes[k] then
-          out = out .. '"..."'
-        elseif k == 'group' or k == 'subgroup' then
+        if k == 'group' or k == 'subgroup' then
           out = out .. '{"name": "' .. v.name .. '", '
           out = out .. '"order": "' .. v.order .. '"}'
         else
@@ -59,7 +54,6 @@ table_to_json = function(node, mandatory_index, ignored_indexes, max_level, leve
     end
   end
   if i > 0 then
-    out = out .. "\n" .. string.rep(' ', (level - 1) * 2)
   end
   return first .. out .. last
 end
@@ -104,11 +98,19 @@ local game_settings = {
   }
 }
 
-local ignored_indexes = {force=true, prototype=true, subgroups=true, isluaobject=true}
-game.write_file(dir .. "/game.player.force.recipes.json", node_to_json(game.player.force.recipes, nil, ignored_indexes, 4))
-game.write_file(dir .. "/game.player.force.technologies.json", node_to_json(game.player.force.technologies, nil, ignored_indexes, 2))
+local ignored_indexes = {force=true, prototype=true, subgroups=true, isluaobject=true, valid=true}
+local mandatory_index_crafting = 'crafting_categories'
 
-game.write_file(dir .. "/game.json", node_to_json(game_settings, nil, {}, 2))
+local js = 'const d = {}\n'
+js = js .. 'd.game = '
+  .. node_to_json(game_settings, nil, ignored_indexes, 2) .. '\n'
+js = js .. 'd.game.entity_prototypes = '
+  .. node_to_json(game.entity_prototypes, mandatory_index_crafting, ignored_indexes, 2) .. '\n'
+js = js .. 'd.game.player.force = {}' .. '\n'
+js = js .. 'd.game.player.force.recipes = '
+  .. node_to_json(game.player.force.recipes, nil, ignored_indexes, 4) .. '\n'
+js = js .. 'd.game.player.force.technologies = '
+  .. node_to_json(game.player.force.technologies, nil, ignored_indexes, 2) .. '\n'
+js = js .. 'window.factorio_recipe_data = d\n'
 
-local mandatory_index = 'crafting_categories'
-game.write_file(dir .. "/game.entity_prototypes.json", node_to_json(game.entity_prototypes, mandatory_index, ignored_indexes, 2))
+game.write_file(dir .. "/factorio_recipe_data.js", js)

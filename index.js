@@ -16,8 +16,8 @@
   let filter_element
 
   // local files only work in Firefox => TODO: start a server, add a file chooser?
-  let recipes_promise = fetch('game.player.force.recipes.json').then(r => r.json())
-  const technologies_promise = fetch('game.player.force.technologies.json').then(r => r.json())
+  let recipes_promise = Promise.resolve(factorio_recipe_data.game.player.force.recipes)
+  const technologies_promise = Promise.resolve(factorio_recipe_data.game.player.force.technologies)
   Promise.all([recipes_promise, technologies_promise])
     .then(([r, t]) => {
       recipes = r
