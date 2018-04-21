@@ -1,12 +1,15 @@
-Proof of concept for Factorio recipe explorer tool.
+[Factorio](https://factorio.com/) recipe explorer mod, open %appdata%/Factorio/script-output/RecipeExplorer/index.html after loading a game with this mod.
 
-[aprillion.github.io/recipe_explorer](http://aprillion.github.io/recipe_explorer)
+Try it out [aprillion.github.io/recipe_explorer](http://aprillion.github.io/recipe_explorer) before deciding whether to install.
 <details open>
     <summary>Preview (click here to collapse)</summary>
     <img src="preview.gif" alt="Preview">
 </details>
 
 ## Notes
+### [RecipeExplorer_0.1.0](RecipeExplorer_0.1.0) directory
+- Factorio mod for publishing on [mods.factorio.com](https://mods.factorio.com/) (to be installed from inside the game)
+
 ### [dump_json.lua](dump_json.lua)
 - copy&paste to Factorio console (press ` in a game)
 - go to [User Data directory](https://wiki.factorio.com/Application_directory#User_Data_directory) and get `scripts_output/recipe_explorer/*.json` files

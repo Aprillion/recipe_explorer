@@ -1,0 +1,11 @@
+{
+  "name": "RecipeExplorer",
+  "version": "0.1.0",
+  "title": "Recipe Explorer Webpage",
+  "author": "Peter Hozák (Aprillion)",
+  "contact": "peter.hozak@gmail.com",
+  "homepage": "https://github.com/Aprillion/recipe_explorer",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16"],
+  "description": "Creates %appdata%/Factorio/script-output/RecipeExplorer/index.html on each game load/save, for exploring recipes (including mods and cost modifiers, current technology research status)... \n\nAny mods changing icon/order in data-final-fixes.lua should be requested for addition as optional dependencies to this mod (via https://github.com/Aprillion/recipe_explorer/issues)."
+}

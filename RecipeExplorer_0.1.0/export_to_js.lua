@@ -1,11 +1,14 @@
-/c
-local dir = "recipe_explorer"
+local ignored_indexes = {force=true, prototype=true, subgroups=true, isluaobject=true, valid=true}
 
-local function unsafe_access_node_key(node, k)
+function get_player()
+  return game.players[1] -- TODO: multiplayer with multiple tech trees
+end
+
+function unsafe_access_node_key(node, k)
   return node[k]
 end
 
-local function unwrap_userdata(node)
+function unwrap_userdata(node)
   local table = {}
   local help = node.help():gsub('.*Values:', '')
   for k in help:gmatch('%s*([^[]+) %[R[^[]*]') do
@@ -19,10 +22,7 @@ local function unwrap_userdata(node)
   return table
 end
 
-local table_to_json
-local node_to_json
-
-table_to_json = function(node, mandatory_index, ignored_indexes, max_level, level, first, last, is_array)
+function table_to_json(node, mandatory_index, ignored_indexes, max_level, level, first, last, is_array)
   local out = ''
   local i = 0
   for k, v in pairs(node) do
@@ -58,7 +58,7 @@ table_to_json = function(node, mandatory_index, ignored_indexes, max_level, leve
   return first .. out .. last
 end
 
-node_to_json = function(node, mandatory_index, ignored_indexes, max_level, level)
+function node_to_json(node, mandatory_index, ignored_indexes, max_level, level)
   level = level or 0
   local out = ''
   if type(node) == "table" then
@@ -86,31 +86,33 @@ node_to_json = function(node, mandatory_index, ignored_indexes, max_level, level
   return out
 end
 
-local game_settings = {
-  active_mods = game.active_mods,
-  difficulty_settings = {
-    recipe_difficulty = game.difficulty_settings.recipe_difficulty,
-    technology_difficulty = game.difficulty_settings.technology_difficulty,
-    technology_price_multiplier = game.difficulty_settings.technology_price_multiplier
-  },
-  player = {
-    mod_settings = game.player.mod_settings
+function export_recipes()
+  local game_settings = {
+    active_mods = game.active_mods,
+    difficulty_settings = {
+      recipe_difficulty = game.difficulty_settings.recipe_difficulty,
+      technology_difficulty = game.difficulty_settings.technology_difficulty,
+      technology_price_multiplier = game.difficulty_settings.technology_price_multiplier
+    },
+    player = {
+      mod_settings = get_player().mod_settings
+    }
   }
-}
+  
+  local js = '// fre = factorio recipe explorer\n'
+  js = js .. 'window.fre_game_settings = '
+    .. node_to_json(game_settings, nil, ignored_indexes, 2) .. '\n'
+  js = js .. 'window.fre_entity_prototypes = '
+    .. node_to_json(game.entity_prototypes, 'crafting_categories', ignored_indexes, 2) .. '\n'
+  js = js .. 'window.fre_recipes = '
+    .. node_to_json(get_player().force.recipes, nil, ignored_indexes, 4) .. '\n'
+  
+  game.write_file(script.mod_name .. "/recipes.js", js)
+end
 
-local ignored_indexes = {force=true, prototype=true, subgroups=true, isluaobject=true, valid=true}
-local mandatory_index_crafting = 'crafting_categories'
-
-local js = 'const d = {}\n'
-js = js .. 'd.game = '
-  .. node_to_json(game_settings, nil, ignored_indexes, 2) .. '\n'
-js = js .. 'd.game.entity_prototypes = '
-  .. node_to_json(game.entity_prototypes, mandatory_index_crafting, ignored_indexes, 2) .. '\n'
-js = js .. 'd.game.player.force = {}' .. '\n'
-js = js .. 'd.game.player.force.recipes = '
-  .. node_to_json(game.player.force.recipes, nil, ignored_indexes, 4) .. '\n'
-js = js .. 'd.game.player.force.technologies = '
-  .. node_to_json(game.player.force.technologies, nil, ignored_indexes, 2) .. '\n'
-js = js .. 'window.factorio_recipe_data = d\n'
-
-game.write_file(dir .. "/factorio_recipe_data.js", js)
+function export_technologies()
+  local js = 'window.fre_technologies = '
+    .. node_to_json(get_player().force.technologies, nil, ignored_indexes, 2) .. '\n'
+  
+  game.write_file(script.mod_name .. "/technologies.js", js)
+end
