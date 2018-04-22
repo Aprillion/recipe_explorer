@@ -1,10 +1,7 @@
 [Factorio](https://factorio.com/) recipe explorer mod, open %appdata%/Factorio/script-output/RecipeExplorer/index.html after loading a game with this mod.
 
 Try it out [aprillion.github.io/recipe_explorer](http://aprillion.github.io/recipe_explorer) before deciding whether to install.
-<details open>
-    <summary>Preview (click here to collapse)</summary>
-    <img src="preview.gif" alt="Preview">
-</details>
+<img src="preview.png" alt="Preview">
 
 ## Notes
 ### [RecipeExplorer_0.1.0](RecipeExplorer_0.1.0) directory
